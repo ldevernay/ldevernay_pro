@@ -5,7 +5,7 @@ main:
   - name: "Articles"
     url: "/articles/"
     weight: 3
-  - name: "About"
+  - name: "Bio"
     url: "/about/"
     weight: 4
   - name: "Contact"
@@ -13,7 +13,7 @@ main:
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Accueil"
     url: "/"
     weight: 1
   - name: "Contact"
