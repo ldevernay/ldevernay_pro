@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Laurent Devernay Satyagraha'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -12,11 +12,15 @@ logo:
 
 home: 
   limit_services: 6
+  limit_articles: 6
 
 collections:
   services:
     output: true
     sort_by: weight
+  articles:
+    output: true
+    sort_by: date
   team:
     output: true
 
