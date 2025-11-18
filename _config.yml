@@ -21,8 +21,6 @@ collections:
   articles:
     output: true
     sort_by: date
-  team:
-    output: true
 
 defaults:
   - scope:
@@ -30,11 +28,6 @@ defaults:
       type: "services"
     values:
       layout: "service"
-  - scope:
-      path: ""
-      type: "team"
-    values:
-      layout: "team"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
