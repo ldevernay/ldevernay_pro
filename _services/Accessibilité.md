@@ -1,5 +1,6 @@
 ---
 title: "Accessibilité"
+excerpt: "Audits et sensibilisation, basés sur le RGAA"
 date: 2018-12-28T15:14:39+10:00
 image_url: "images/services/accessibility-circle2-solid.svg"
 image_width: 80
