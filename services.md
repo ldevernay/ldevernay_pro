@@ -2,11 +2,12 @@
 title: Services
 layout: services
 description: Services
-intro_image: "images/illustrations/reading.svg"
+intro_image: 
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Vous accompagner vers un numérique plus responsable
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Alors que les obligations légales se renforcent, la prise de conscience autour des impacts du numérique se renforce.  
+Je propose de vous accompagner dans ce périple qui peut être intimidant mais qui ne peut qu'être bénéfique pour la planète et les individus.
