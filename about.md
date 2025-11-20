@@ -14,24 +14,26 @@ bodyClass: page-about
 * [Référentiels](#référentiels)
 * [Certifications](#certifications)
 
-Tombé dans le Numérique Responsable il y a plusieurs années déjà, j'anime des ateliers de sensibilisation et cours sur le sujet auprès de la Mission Locale 31, d'organismes de formation, d'écoles et d'universités. J'ai travaillé sur l'intégration du sujet dans les formations Simplon, sous ses divers aspects (accessibilité, écoconception, performance, économie de l'attention, données personnelles, etc).   
-J'ai pris part à l'organisation d'[un événement autour de l'Impact Écologique du Numérique](https://maisondelavenir.eu/developper-le-pouvoir-dagir/retour-sur-la-2eme-edition-de-limpact-ecologique-du-numerique/), en collaboration avec la Maison de l'Avenir sur trois éditions consécutives.   
+Tombé dans le Numérique Responsable en 2018, j'anime des ateliers de sensibilisation et cours sur le sujet auprès de la Mission Locale 31, d'organismes de formation, d'écoles et d'universités. J'ai travaillé sur l'intégration du sujet dans les formations [Simplon](https://www.simplon.co/), sous ses divers aspects (accessibilité, écoconception, performance, économie de l'attention, données personnelles, etc).   
+J'ai sur cette période pris part à l'organisation d'[un événement autour de l'Impact Écologique du Numérique](https://maisondelavenir.eu/developper-le-pouvoir-dagir/retour-sur-la-2eme-edition-de-limpact-ecologique-du-numerique/), en collaboration avec la Maison de l'Avenir sur trois éditions consécutives.   
+
+J'ai travaillé de 2021 à 2025 pour [Greenspector](https://greenspector.com/fr/accueil/) afin de pouvoir me consacrer à plein temps au sujet du Numérique Responsable et en particulier à l'écoconception appliquée au domaine du web.  
+
+Depuis, je me suis tourné vers l'indépendance afin de pouvoir avancer encore plus sur certains sujets.
+
    
-Je produis régulièrement du contenu sur ce sujet ici-même et contribue au collectif [GreenIT](https://collectif.greenit.fr/) et à l'[INR (Institut du Numérique Responsable)](https://institutnr.org/).  
+Je produis régulièrement du contenu sur ce sujet ici-même et contribue aux [Designers Ethiques](https://designersethiques.org/fr) et à l'[INR (Institut du Numérique Responsable)](https://institutnr.org/).  
 * J'ai notamment contribué à la création d'un référentiel de conception responsable de services numériques, [le GR491](https://gr491.isit-europe.org/). C'est dans ce cadre que j'ai pu relire [le Référentiel Général d'Ecoconception de Services Numériques](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) de la DINUM. Je prends également part au Consortium RGESN (groupement d'experts visant à faire évoluer le référentiel avec l'ARCEP).  
 * J'ai également contribué à [la V5 des 115 bonnes pratiques d'écoconception web](https://rweb.greenit.fr/fr) du collectif GreenIT.  
 
-En parallèle de tout cela, je travaille sur le sujet avec [le W3C en tant qu'Expert invité afin d'établir des guidelines et des standards pour le web](https://www.w3.org/groups/ig/sustainableweb/). Ainsi, les [Web Sustainability Guidelines (WSG)](https://www.w3.org/community/sustyweb/2023/09/07/web-sustainability-guidelines/) ont été publiées.  
+En parallèle de tout cela, je travaille sur le sujet avec [le W3C en tant qu'Expert invité afin d'établir des guidelines et des standards pour le web](https://www.w3.org/groups/ig/sustainableweb/). Ainsi, les [Web Sustainability Guidelines (WSG)](https://w3c.github.io/sustainableweb-wsg/) ont été publiées.  
 
-J'ai également contribué au [chapitre Sustainability du Web Almanac 2022](https://almanac.httparchive.org/en/2022/sustainability) et [2024](https://almanac.httparchive.org/en/2024/sustainability) en tant que lead author. A partir de 2025, j'opte plutôt pour une simple relecture. 
-  
-Je travaille depuis fin 2021 pour [Greenspector](https://greenspector.com/fr/accueil/) afin de pouvoir me consacrer à plein temps au sujet du Numérique Responsable et en particulier à l'écoconception appliquée au domaine du web.  
-  
-Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), consultez [mon autre site](https://sites.google.com/site/labodebob/).
+J'ai également contribué au [chapitre Sustainability du Web Almanac 2022](https://almanac.httparchive.org/en/2022/sustainability) et [2024](https://almanac.httparchive.org/en/2024/sustainability) en tant que lead author.
 
 ## Interventions autour du Numérique Responsable
+* [Digital Ethics Forum 2025](https://www.digitalethicsforum.com/) (sur le sujet de la souveraineté numérique européenne)
 * ARCEP : [Forum des parties prenantes](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/forum-parties-prenantes-rgesn-210525.html)  
-* Mission Locale Haute-Garonne : [Support et ressources](https://ldevernay.github.io/green/2025/03/26/ressources_numresp.html)
+* Mission Locale Haute-Garonne
 * IMT Alès : sensibilisation au Numérique Responsable et à l'écoconception de service numérique
 * IMT Albi : module d'une vingtaine d'heures autour du Numérique Responsable (impact environnemental + écoconception + accessibilité + cybersécurité)
 * Telecom Paris : sensibilisation au Numérique Responsable, accompagnement de la DSI sur l'écoconception de services numériques
@@ -57,7 +59,7 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * [*Réduire le poids d’une page web : quels sont les éléments les plus impactants ?*](https://greenspector.com/fr/reduire-poids-page-web-quels-elements-plus-impactants/) + [english version](https://greenspector.com/en/reduce-the-weight-of-a-web-page-which-elements-have-the-greatest-impact/), Greenspector - 12 février 2024
   
 ### 2023
-* [*L'écoconception, c'est les autres*](https://www.24joursdeweb.fr/2023/lecoconception-cest-les-autres/) + [english version](https://ldevernay.github.io/green/2023/12/11/ecodesign_for_others.html), 24 jours de web - 5 décembre 2023
+* [*L'écoconception, c'est les autres*](https://www.24joursdeweb.fr/2023/lecoconception-cest-les-autres/), 24 jours de web - 5 décembre 2023
 * [*Quelle est la corrélation entre écoconception et sobriété éditoriale ?*](https://greenspector.com/fr/quelle-est-la-correlation-entre-ecoconception-et-sobriete-editoriale/) + [english version](https://greenspector.com/en/what-is-the-correlation-between-eco-design-and-editorial-sobriety/), Greenspector - 23 novembre 2023
 * [*Le cadre législatif de l’écoconception de services numériques*](https://greenspector.com/fr/le-cadre-legislatif-de-lecoconception-de-services-numeriques/) + [english version](https://greenspector.com/en/the-legislative-framework-for-the-eco-design-of-digital-services/), Greenspector - 12 octobre 2023
 * [*Quel est l’impact environnemental d’ouvrir ou non les liens dans un autre onglet ?*](https://greenspector.com/fr/quel-est-limpact-environnemental-douvrir-ou-non-les-liens-dans-un-autre-onglet/) + [english version](https://greenspector.com/en/what-is-the-environmental-impact-of-opening-or-not-opening-links-in-another-tab/), Greenspector - 4 octobre 2023
@@ -97,7 +99,7 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * [*Replay du webinaire sur l'impact carbone des sites web de 187 universités et écoles françaises et mondiales*](https://www.youtube.com/watch?v=-KT8gPsybH8), Greenspector - 17 mars 2022
 * [*Numérique responsable et durable : miser sur la formation*](https://www.youtube.com/watch?v=ZjeQg7YIy7Y&list=PL8tNJxaWQ-hKfklI1Jz6IV0_QDkSrdWYi&index=6), GreenIT Day - 7 octobre 2021  
 * [*Numérique responsable, quelles formations?*](https://www.youtube.com/watch?v=jogXSmC0h5E&list=PL8tNJxaWQ-hLASiuBMfgou97DnFYXvsdA&index=7), GreenIT Day - 8 octobre 2020
-* *Les Mains dans la Tech #1 : Eco-conception web (et au-delà)*, Simplon - juillet 2020 : [slides en PDF](https://ldevernay.github.io/assets/Les%20mains%20dans%20la%20tech%201%20-%20%C3%A9coconception.pdf).
+* *Les Mains dans la Tech #1 : Eco-conception web (et au-delà)*, Simplon - juillet 2020
 
 ## MOOC
 * [*Impacts environnementaux du numérique, Inria/ClassCode - octobre 2021*](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/) : intervention en tant qu'expert. 
