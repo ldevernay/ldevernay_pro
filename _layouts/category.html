@@ -18,7 +18,7 @@ bodyClass: "page-services"
 <div class="container pt-6 pb-6">
   <div class="row">
     {% assign page_category = page.categories | first %}
-    {% for article in site.articles %}
+    {% for article in site.articles reversed %}
     {% if article.categories contains page_category %}
     <div class="col-12 col-md-6 mb-3">
       <div class="article article-summary">

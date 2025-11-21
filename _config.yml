@@ -12,7 +12,7 @@ logo:
 
 home: 
   limit_services: 6
-  limit_articles: 6
+  limit_articles: 3
 
 collections:
   services:
