@@ -2,6 +2,7 @@
 title:  "Accessibilité"
 date:   2019-10-20 10:59:53 +0200
 excerpt: Une introduction à l'accessibilité numérique
+categories: accessibilite numeriqueresponsable
 ---
 
 ### Accessibilité

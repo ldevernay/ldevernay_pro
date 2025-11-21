@@ -62,6 +62,11 @@ bodyClass: "page-home"
               <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
             </h2>
             <p>{{ article.excerpt | markdownify | strip_html | truncate: 100 }}</p>
+            <p>
+              {% for category in article.categories %}
+              <a href="/categories/{{category}}">{{category}}</a>
+              {% endfor %}
+            </p>
           </div>
         </div>
       </div>

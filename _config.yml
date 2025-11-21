@@ -21,6 +21,9 @@ collections:
   articles:
     output: true
     sort_by: date
+  categories:
+    output: true
+    permalink: /:collection/:categories:output_ext
 
 defaults:
   - scope:
@@ -33,6 +36,11 @@ defaults:
       type: "articles"
     values:
       layout: "article"
+  - scope:
+      path: ""
+      type: "categories"
+    values: 
+      layout: "category"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

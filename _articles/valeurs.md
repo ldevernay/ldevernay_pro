@@ -2,6 +2,7 @@
 title:  "Les valeurs du développeur"
 date:   2019-09-03 10:59:53 +0200
 excerpt: Les moyens pour se former au métier de développeur (web/IA/logiciel/etc) se multiplient mais il me semble essentiel de garder à l'esprit que, au-delà de la technique, ces métiers s'accompagnent d'obligations éthiques. 
+categories: numeriqueresponsable
 ---
 Les moyens pour se former au métier de développeur (web/IA/logiciel/etc) se multiplient mais il me semble essentiel de garder à l'esprit que, au-delà de la technique, ces métiers s'accompagnent d'obligations éthiques.    
 

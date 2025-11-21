@@ -2,6 +2,7 @@
 title:  "Apprendre à ne plus dire non"
 date:   2025-08-21 12:00:00 +0200
 excerpt: Utiliser le RGESN pour établir des discussions constructives avec un client
+categories: ecoconception numeriqueresponsable
 ---
 
 En tant qu'expert (en accessibilité, en écoconception, etc), il est souvent tentant de répondre "non" à certaines idées et propositions. Ce n'est pas nécessairement la meilleure façon de faire, comme l'évoque cet article (en anglais) : [https://buttondown.com/access-ability/archive/how-to-make-accessibility-stick/](https://buttondown.com/access-ability/archive/how-to-make-accessibility-stick/)

@@ -2,6 +2,7 @@
 title:  La réponse à toutes les questions
 date:   2020-05-14 08:59:53 +0200
 description: Parlons de solutionnisme technologique. Ce que c'est et en quoi ça s'oppose souvent au numérique responsable. 
+categories: numeriqueresponsable
 ---
 
 Aujourd'hui, je vous propose donc de parler de solutionnisme technologique. Ce que c'est et en quoi ça s'oppose souvent au Numérique Responsable.
