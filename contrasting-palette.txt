@@ -5,3 +5,8 @@
 #144b22, #ffffff
 
 #FFFAFA, #000000
+
+
+Logo : 
+* Fill 1 : #8ba992
+* Fill 2 : #7a398b
