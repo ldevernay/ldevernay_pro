@@ -1,7 +1,7 @@
 [
   {
-    "title": "Expert NR",
-    "description": "Reconnu par l'Institut du Numérique Responsable - Niveau Argent",
+    "title": "Numérique Responsable",
+    "description": "Expert reconnu par l'Institut du Numérique Responsable - niveau Argent",
     "url": "https://experts.isit-europe.org/sustainable-it-experts/laurent-devernay/",
     "image": {
       "url": "images/features/logo_inr_cut.jpg",
@@ -10,8 +10,8 @@
     }
   },
   {
-    "title": "Expert Qualité Numérique",
-    "description": "Certifié par Opquast",
+    "title": "Qualité Numérique",
+    "description": "Certifié par Opquast - niveau Expert",
     "url": "https://directory.opquast.com/fr/certificat/F48V5U/",
     "image": {
       "url": "images/features/logo_opquast.png",
@@ -20,7 +20,7 @@
     }
   },
   {
-    "title": "Expert Accessibilité",
+    "title": "Accessibilité",
     "description": "Formé au développement de sites web accessibles par Access42",
     "url": "https://access42.net/?lang=fr",
     "image": {
@@ -31,7 +31,7 @@
   },
   {
     "title": "Expert Invité au W3C",
-    "description": "Expert écoconception web contribuant aux travaux du W3C (World Wide Web Consortium)",
+    "description": "Contributeur aux travaux du W3C (World Wide Web Consortium)",
     "url": "https://www.w3.org/",
     "image": {
       "url": "images/features/logo_w3c.jpg",
