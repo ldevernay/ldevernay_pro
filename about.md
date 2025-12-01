@@ -5,7 +5,7 @@ description: Description de mon parcours
 bodyClass: page-about
 ---
 
-![Accounting Services](/images/laudev-min.jpg)
+![Portrait de Laurent](/images/laudev-min.jpg)
 
 * [Interventions autour du Numérique Responsable](#interventions-autour-du-numérique-responsable)
 * [Bibliographie sélective](#bibliographie-sélective)
