@@ -5,6 +5,7 @@
     "url": "https://experts.isit-europe.org/sustainable-it-experts/laurent-devernay/",
     "image": {
       "url": "images/features/logo_inr_cut.jpg",
+      "alt": "Logo de l'Institut du Numérique Responsable",
       "width": 80,
       "height": 80
     }
@@ -15,6 +16,7 @@
     "url": "https://directory.opquast.com/fr/certificat/F48V5U/",
     "image": {
       "url": "images/features/logo_opquast.png",
+      "alt": "Logo Opquast",
       "width": 80,
       "height": 80
     }
@@ -25,6 +27,7 @@
     "url": "https://access42.net/?lang=fr",
     "image": {
       "url": "images/features/logo_access42.jpg",
+      "alt": "Logo Access42",
       "width": 80,
       "height": 80
     }
@@ -35,6 +38,7 @@
     "url": "https://www.w3.org/",
     "image": {
       "url": "images/features/logo_w3c.jpg",
+      "alt": "Logo du World Wide Web Consortium",
       "width": 80,
       "height": 80
     }
