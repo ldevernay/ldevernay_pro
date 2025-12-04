@@ -12,7 +12,6 @@ bodyClass: page-about
 * [Vidéos](#vidéos)
 * [MOOC](#mooc)
 * [Référentiels](#référentiels)
-* [Certifications](#certifications)
 
 Tombé dans le Numérique Responsable en 2018, j'anime des ateliers de sensibilisation et cours sur le sujet auprès de la Mission Locale 31, d'organismes de formation, d'écoles et d'universités. J'ai travaillé sur l'intégration du sujet dans les formations [Simplon](https://www.simplon.co/), sous ses divers aspects (accessibilité, écoconception, performance, économie de l'attention, données personnelles, etc).   
 J'ai sur cette période pris part à l'organisation d'[un événement autour de l'Impact Écologique du Numérique](https://maisondelavenir.eu/developper-le-pouvoir-dagir/retour-sur-la-2eme-edition-de-limpact-ecologique-du-numerique/), en collaboration avec la Maison de l'Avenir sur trois éditions consécutives.   
