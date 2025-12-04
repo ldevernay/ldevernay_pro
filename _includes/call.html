@@ -11,9 +11,12 @@
     </div>
     {% endif %}
   </div> -->
-    {% if include.show_button %}
-      <div class="call-box-bottom">
-        <a href="{{ site.data.contact.contact_button_link }}" class="button">Prendre rendez-vous</a>
-      </div>
-    {% endif %}
+  {% if include.show_button %}
+  <div class="call-box-bottom">
+    <a href="{{ site.data.contact.contact_button_link }}" class="button" target="_blank" rel="noopener">
+      Prendre rendez-vous
+      <span class="visually-hidden">(s'ouvre dans une autre fenêtre ou un autre onglet)</span>
+    </a>
+  </div>
+  {% endif %}
 </div>
