@@ -69,10 +69,10 @@
 
   a[target^="_"]::after {
     content: "";
-    width: 1em;
-    height: 1em;
+    width: 1.5em;
+    height: 1.5em;
     margin: 0 0.05em 0 0.1em;
-    background: url("/../../images/icons/external-link.svg") no-repeat;
+    background: url("/../../images/icons/share-link.svg") no-repeat;
     background-size: contain;
     display: inline-block;
     vertical-align: text-bottom;
