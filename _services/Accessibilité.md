@@ -8,4 +8,4 @@ image_height: 80
 weight: 2
 ---
 
-Lorem ipsum...
+A venir.
