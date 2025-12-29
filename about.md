@@ -91,6 +91,7 @@ J'ai également contribué au [chapitre Sustainability du Web Almanac 2022](http
 * [*How to Audit your website on a budget*](https://the-sustainable.dev/how-to-audit-your-website-on-a-budget/), The Sustainable Dev - septembre 2020.
 
 ## Vidéos
+* [Digital Ethics Forum 2025 - Tavola rotonda su AI e prospettive industriali](https://www.youtube.com/watch?v=q2BWzLAoJps), Associazione Sloweb - octobre 2025
 * [Communauté Écoconception : Table ronde - Auditer un produit avec le RGESN](https://peertube.designersethiques.org/w/wJphtFZ45yPc4CKitSUyTr), Designers éthiques - 23 avril 2025
 * [Drupal and Sustainability / REEN, RGESN et Drupal - Meetup Drupal France](https://www.youtube.com/watch?v=q13KYKNWK94), Greenspector - 30 mai 2024
 * [Communauté écoconception des Designers Ethiques - Retour d'expérience Bruxelles Environnement](https://peertube.designersethiques.org/w/sHVF9NeEfjTz3NyTRaVejm), Greenspector - 16 mai 2024
