@@ -32,4 +32,6 @@ Les accompagnements peuvent notamment porter sur :
 Chaque intervention donne lieu à des livrables structurés et exploitables, remis aux équipes afin de documenter la démarche, d’en assurer la pérennité et de favoriser l’autonomie dans le temps.
 
 ## Première étape
-Le plus simple pour commencer est que [nous prenions un moment pour en discuter](/contact).  
+La première étape consiste généralement en un échange exploratoire, afin de comprendre votre contexte, vos enjeux et votre niveau de maturité.
+
+👉 [Nous pouvons prendre un moment pour en discuter](/contact).  
