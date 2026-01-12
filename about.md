@@ -12,6 +12,7 @@ bodyClass: page-about
 * [Vidéos](#vidéos)
 * [MOOC](#mooc)
 * [Référentiels](#référentiels)
+* [Etudes](#etudes)
 
 Je travaille sur les enjeux du **Numérique Responsable** et de l’**écoconception des services numériques** depuis 2018.
 
