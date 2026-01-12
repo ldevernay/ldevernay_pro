@@ -13,21 +13,22 @@ bodyClass: page-about
 * [MOOC](#mooc)
 * [Référentiels](#référentiels)
 
-Tombé dans le Numérique Responsable en 2018, j'anime des ateliers de sensibilisation et cours sur le sujet auprès de la Mission Locale 31, d'organismes de formation, d'écoles et d'universités. J'ai travaillé sur l'intégration du sujet dans les formations [Simplon](https://www.simplon.co/), sous ses divers aspects (accessibilité, écoconception, performance, économie de l'attention, données personnelles, etc).   
-J'ai sur cette période pris part à l'organisation d'[un événement autour de l'Impact Écologique du Numérique](https://maisondelavenir.eu/developper-le-pouvoir-dagir/retour-sur-la-2eme-edition-de-limpact-ecologique-du-numerique/), en collaboration avec la Maison de l'Avenir sur trois éditions consécutives.   
+Je travaille sur les enjeux du **Numérique Responsable** et de l’**écoconception des services numériques** depuis 2018.
 
-J'ai travaillé de 2021 à 2025 pour [Greenspector](https://greenspector.com/fr/accueil/) afin de pouvoir me consacrer à plein temps au sujet du Numérique Responsable et en particulier à l'écoconception appliquée au domaine du web.  
+J’interviens depuis plusieurs années dans des **actions de sensibilisation, de formation et d’enseignement** auprès d’organismes de formation, d’écoles, d’universités et d’acteurs de l’insertion professionnelle (notamment la Mission Locale 31). J’ai également contribué à l’**intégration du Numérique Responsable dans les parcours de formation [Simplon](https://www.simplon.co)**, en couvrant des thématiques telles que l’accessibilité, l’écoconception, la performance, l’économie de l’attention ou encore la protection des données personnelles.
 
-Depuis, je me suis tourné vers l'indépendance afin de pouvoir avancer encore plus sur certains sujets.
+Entre 2021 et 2025, j’ai travaillé chez **[Greenspector](https://greenspector.com/fr/accueil)**, afin de me consacrer à plein temps aux enjeux du Numérique Responsable, et plus particulièrement à l’**écoconception appliquée aux services web mais aussi aux applications mobiles**. Cette expérience m’a permis de renforcer une approche à la fois **opérationnelle, mesurable et ancrée dans les pratiques terrain**.
 
-   
-Je produis régulièrement du contenu sur ce sujet ici-même et contribue aux [Designers Ethiques](https://designersethiques.org/fr) et à l'[INR (Institut du Numérique Responsable)](https://institutnr.org/).  
-* J'ai notamment contribué à la création d'un référentiel de conception responsable de services numériques, [le GR491](https://gr491.isit-europe.org/). C'est dans ce cadre que j'ai pu relire [le Référentiel Général d'Ecoconception de Services Numériques](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) de la DINUM. Je prends également part au Consortium RGESN (groupement d'experts visant à faire évoluer le référentiel avec l'ARCEP).  
-* J'ai également contribué à [la V5 des 115 bonnes pratiques d'écoconception web](https://rweb.greenit.fr/fr) du collectif GreenIT.  
+Depuis, j’exerce en tant qu’**indépendant**, avec l’objectif d’approfondir certains sujets et d’intervenir comme **expert des référentiels et tiers de confiance** auprès des organisations.
 
-En parallèle de tout cela, je travaille sur le sujet avec [le W3C en tant qu'Expert invité afin d'établir des guidelines et des standards pour le web](https://www.w3.org/groups/ig/sustainableweb/). Ainsi, les [Web Sustainability Guidelines (WSG)](https://w3c.github.io/sustainableweb-wsg/) ont été publiées.  
+Je contribue activement à l’**élaboration et à l’évolution des cadres de référence** du Numérique Responsable. J’ai notamment participé à la création du **GR491**, référentiel européen d’écoconception des services numériques. Dans ce cadre, j’ai contribué à la relecture du **[Référentiel Général d’Écoconception de Services Numériques (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)** de la DINUM, et je fais aujourd’hui partie du **Consortium RGESN**, un groupement d’experts travaillant à son évolution en lien avec l’ARCEP.
 
-J'ai également contribué au [chapitre Sustainability du Web Almanac 2022](https://almanac.httparchive.org/en/2022/sustainability) et [2024](https://almanac.httparchive.org/en/2024/sustainability) en tant que lead author.
+J’ai également contribué à la **[version 5 des 115 bonnes pratiques d’écoconception web](https://rweb.greenit.fr/fr)** du collectif **GreenIT**.
+
+À l’international, je travaille avec le **W3C** en tant qu’**Expert invité** pour la [construction de standards autour de la durabilité du web](https://www.w3.org/groups/ig/sustainableweb). Ces travaux ont notamment conduit à la publication des **[Web Sustainability Guidelines (WSG)](https://w3c.github.io/sustainableweb-wsg/)**.
+
+Par ailleurs, j’ai été **lead author** du chapitre *Sustainability* du **Web Almanac** en [2022](https://almanac.httparchive.org/en/2022/sustainability) et [2024](https://almanac.httparchive.org/en/2024/sustainability).
+
 
 ## Interventions autour du Numérique Responsable
 * [Digital Ethics Forum 2025](https://www.digitalethicsforum.com/) (sur le sujet de la souveraineté numérique européenne)
@@ -110,3 +111,6 @@ J'ai également contribué au [chapitre Sustainability du Web Almanac 2022](http
 * [RGESN (Référentiel général d'écoconception de services numériques)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/), référentiel de la DINUM - octobre 2021 : relecteur; Consortium RGESN - groupe de travail sur les audits et déclarations.
 * [GR491 (Guide de référence de conception responsable de services numériques)](https://gr491.isit-europe.org/), référentiel de l'INR - octobre 2021 : contributeur.
 * [Référentiel RWEB](https://rweb.greenit.fr/fr), collectif GreenIT - juin 2025 : contributeur.
+
+## Etudes
+* Relecture critique des [études sur les apports environnementaux du télétravail et de la numérisation de l'éclairage public dans le cadre de l'étude IT4Green de l'ADEME](https://librairie.ademe.fr/economie-circulaire-et-dechets/8738-10522-evaluation-environnementale-des-effets-directs-et-indirects-du-numerique-pour-des-cas-d-usage.html#product-features), Greenspector, 2025
