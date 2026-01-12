@@ -43,4 +43,6 @@ Les supports sont ensuite mis à disposition, de même que les ressources utilis
 Selon vos demandes, d'autres modules peuvent vous être proposés.
 
 ## Première étape
-[Le plus simple est de prendre 30 min pour en discuter ensemble](/contact).
+La première étape consiste généralement en un **échange exploratoire**, afin de comprendre votre contexte, vos enjeux et votre niveau de maturité.
+
+👉 [Nous pouvons prendre un moment pour en discuter](/contact).  
