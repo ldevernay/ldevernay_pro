@@ -27,11 +27,11 @@ bodyClass: "page-services"
       <div class="article article-summary">
         <div class="article-content">
           <h2 class="article-title">
-            <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
+            <a href="{{ article.url | relative_url }}" hreflang="fr">{{ article.title }}</a>
           </h2>
           <p>
             {% for category in article.categories %}
-            <a href="/categories/{{category}}">#{{category}}</a>
+            <a href="/categories/{{category}}" hreflang="fr">#{{category}}</a>
             {% endfor %}
           </p>
           <p>{{ article.excerpt | markdownify | strip_html | truncate: 100 }}</p>

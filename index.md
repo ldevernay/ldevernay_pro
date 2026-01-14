@@ -1,7 +1,7 @@
 ---
 title: Laurent Devernay Satyagraha - expert Numérique Responsable
 layout: home
-description: Les services et contenus que je propose, notamment autour de l'écoconception de services numériques
+description: Les services et contenus que je propose, notamment autour de l'écoconception de services numériques et du RGESN
 intro_image: "images/illustrations/hhhorizon.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
