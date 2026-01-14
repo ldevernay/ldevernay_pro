@@ -1,7 +1,7 @@
 ---
-title: Services
+title: Vous accompagner sur le Numérique Responsable
 layout: services
-description: Services
+description: Les services que je propose : formation, audits, accompagnement
 intro_image: 
 intro_image_absolute: true
 intro_image_hide_on_mobile: true

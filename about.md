@@ -1,7 +1,7 @@
 ---
-title: Bio
+title: Parcours, interventions et contributions.
 layout: page
-description: Description de mon parcours
+description: Description de mon parcours, mes interventions et mes contributions
 bodyClass: page-about
 ---
 
