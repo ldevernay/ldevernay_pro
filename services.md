@@ -1,7 +1,7 @@
 ---
 title: Vous accompagner sur le Numérique Responsable
 layout: services
-description: Les services que je propose : formation, audits, accompagnement
+description: Les services que je propose notamment autour de l'écoconception = formation, audits, accompagnement
 intro_image: 
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
