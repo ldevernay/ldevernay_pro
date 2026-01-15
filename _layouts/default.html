@@ -16,21 +16,26 @@
   <meta property="og:title" content="{{ page.meta_title }}" />{% else %}
   <meta property="og:title" content="{{ page.title }}" />{% endif %}
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="{{ url }}" />
+  {% if site.data.seo.meta_url %}
+  <meta property="og:url" content="{{ site.data.seo.meta_url }}">{% endif %}
   {% if page.image %}
   <meta property="og:image" content="{{ page.image | absolute_url }}" />{% endif %}
   {% if page.description %}
   <meta property="og:description" content="{{ page.description }}" />{% endif %}
+  {% if site.data.seo.meta_twitter_domain %}
+  <meta property="twitter:domain" content="{{ site.data.seo.meta_twitter_domain }}">{% endif %}
   <meta name="twitter:card" content="summary" />
   {% if site.data.seo.meta_twitter_site %}
-  <meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}" />{% endif %}
+  <meta name="twitter:site" content="{{ site.data.seo.meta_twitter_site }}" />{% endif %}
   {% if site.data.seo.meta_twitter_creator %}
-  <meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}" />{% endif %}
+  <meta name="twitter:creator" content="{{ site.data.seo.meta_twitter_creator }}" />{% endif %}
   <link rel="canonical" href="https://laudevsat.fr">
-  <meta property="og:image" content="{{ '/images/preview.jpg' | relative_url }}">
+  <meta property="og:image" content="https://laudevsat.fr/images/preview.jpg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="627">
-
+  <link rel="sitemap" type="application/xml" href="https://laudevsat.fr/sitemap.xml">
+  <script
+    type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","url":"https://laudevsat.fr/","name":"{{ site.title | escape }}","headline":"{{ site.title | escape }}","description":"{{ page.description }}","mainEntityOfPage":{"@type":"WebPage","@id":"https://laudevsat.fr/"},"dateModified":"2026-01-13T15:44:58.439Z","@id":"https://laudevsat.fr/","dateCreated":"2026-01-13T15:44:58.439Z"}</script>
 </head>
 
 <body class='page {{layout.bodyClass}}'>
