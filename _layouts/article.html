@@ -7,13 +7,15 @@ bodyClass: "page-service"
   <div class="row justify-content-start">
     <div class="col-12 col-md-8">
       <div class="service service-single">
-        <h1 class="title">{{page.title}}</h1>
-        <p>
-          {% for category in page.categories %}
-          <a href="/categories/{{category}}" hreflang="fr">#{{category}}</a>
-          {% endfor %}
-        </p>
-        <div class="content">{{content}}</div>
+        <article>
+          <h1 class="title">{{page.title}}</h1>
+          <p>
+            {% for category in page.categories %}
+            <a href="/categories/{{category}}" hreflang="fr">#{{category}}</a>
+            {% endfor %}
+          </p>
+          <div class="content">{{content}}</div>
+        </article>
       </div>
     </div>
   </div>
