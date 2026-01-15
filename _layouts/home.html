@@ -26,6 +26,7 @@ bodyClass: "page-home"
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-center">
+      <h2>Services</h2>
       {% assign limit = site.home.limit_services | default: 6 %}
       {% for service in site.services limit: limit %}
       <div class="col-12 col-md-4 mb-1">
@@ -34,9 +35,9 @@ bodyClass: "page-home"
           <div class="feature-image"><img alt="" src="{{ service.image_url | relative_url }}"
               width="{{ service.image_width }}" height="{{ service.image_height }}" /></div>
           {% endif %}
-          <h2 class="service-title">
+          <h3 class="service-title">
             <a href="{{ service.url | relative_url }}" hreflang="fr">{{ service.title }}</a>
-          </h2>
+          </h3>
           <p>{{ service.excerpt | markdownify | strip_html | truncate: 100 }}</p>
         </div>
       </div>
@@ -44,7 +45,7 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">Voir tous les services</a>
+        <a class="button button-primary" href="{{ " services" | relative_url }}">Voir tous les services</a>
       </div>
     </div>
   </div>
@@ -53,15 +54,16 @@ bodyClass: "page-home"
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
+      <h2>Articles</h2>
       {% assign sorted = site.articles | sort: 'date' | reverse %}
       {% assign limit = site.home.limit_articles| default: 6 %}
       {% for article in sorted limit: limit %}
       <div class="col-12 col-md-4 mb-1">
         <div class="service service-summary">
           <div class="service-content">
-            <h2 class="service-title">
+            <h3 class="service-title">
               <a href="{{ article.url | relative_url }}" hreflang="fr">{{ article.title }}</a>
-            </h2>
+            </h3>
             <p>{{ article.excerpt | markdownify | strip_html | truncate: 100 }}</p>
             <p>
               {% for category in article.categories %}
@@ -75,7 +77,7 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "articles" | relative_url }}">Voir tous les articles</a>
+        <a class="button button-primary" href="{{ " articles" | relative_url }}">Voir tous les articles</a>
       </div>
     </div>
   </div>
@@ -85,7 +87,7 @@ bodyClass: "page-home"
 <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
-
+      <h2>Certifications et reconnaissances</h2>
       {% for feature in site.data.features %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
@@ -93,10 +95,10 @@ bodyClass: "page-home"
           <div class="feature-image"><img alt="{{feature.image.alt}}" src="{{ feature.image.url | relative_url }}"
               width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
           {% endif %}
-          <h2 class="feature-title">{{ feature.title }}</h2>
-          <div class="feature-content">
-            <a href="{{ feature.url }}" hreflang="fr">{{ feature.description }}</a>
-          </div>
+          <h3 class="feature-title">{{ feature.title }}</h3>
+            <div class="feature-content">
+              <a href="{{ feature.url }}" hreflang="fr">{{ feature.description }}</a>
+            </div>
         </div>
       </div>
       {% endfor %}
