@@ -7,7 +7,7 @@ excerpt: Avoir les bonnes ressources et outils pour une meilleure utilisation du
 
 Même si les impacts environnementaux sont un sujet très important lorsque l'on parle du Numérique Responsable, il est important de sensibiliser le plus grand nombre sur le sujet du numérique et de ses divers impacts.  
 
-C'est dans cette optique que j'essaie de proposer régulièrement des sessions de sensbibilisation, en particulier auprès des établissements scolaires et de la Mission Locale Haute-Garonne.   
+C'est dans cette optique que j'essaie de proposer régulièrement des sessions de sensbibilisation, en particulier auprès des établissements scolaires et de structures spécialisées dans l'autonomisation des jeunes.   
 On retrouve cette volonté auprès de nombreuses structures, notamment [Latitudes](https://www.latitudes.cc/) et [Les Intrépides de la Tech](https://www.intrepidesdelatech.org/).  
 Mon intention est de sensibiliser aux impacts du numérique. Environnementaux, certes, mais pas que. J'y parle aussi des impacts sociétaux, liés à la diversité, à l'Intelligence Artificielle, à la cybersécurité, aux données personnelles, au cyberharcèlement et autres.  
 Tous ces sujets sont abordés dans la présentation que j'utilise comme base.  

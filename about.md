@@ -16,7 +16,7 @@ bodyClass: page-about
 
 Je travaille sur les enjeux du **Numérique Responsable** et de l’**écoconception des services numériques** depuis 2018.
 
-J’interviens depuis plusieurs années dans des **actions de sensibilisation, de formation et d’enseignement** auprès d’organismes de formation, d’écoles, d’universités et d’acteurs de l’insertion professionnelle (notamment la Mission Locale 31). J’ai également contribué à l’**intégration du Numérique Responsable dans les parcours de formation [Simplon](https://www.simplon.co)**, en couvrant des thématiques telles que l’accessibilité, l’écoconception, la performance, l’économie de l’attention ou encore la protection des données personnelles.
+J’interviens depuis plusieurs années dans des **actions de sensibilisation, de formation et d’enseignement** auprès d’organismes de formation, d’écoles, d’universités et d’acteurs de l’insertion professionnelle. J’ai également contribué à l’**intégration du Numérique Responsable dans les parcours de formation [Simplon](https://www.simplon.co)**, en couvrant des thématiques telles que l’accessibilité, l’écoconception, la performance, l’économie de l’attention ou encore la protection des données personnelles.
 
 Entre 2021 et 2025, j’ai travaillé chez **[Greenspector](https://greenspector.com/fr/accueil)**, afin de me consacrer à plein temps aux enjeux du Numérique Responsable, et plus particulièrement à l’**écoconception appliquée aux services web mais aussi aux applications mobiles**. Cette expérience m’a permis de renforcer une approche à la fois **opérationnelle, mesurable et ancrée dans les pratiques terrain**.
 
@@ -34,7 +34,6 @@ Par ailleurs, j’ai été **lead author** du chapitre *Sustainability* du **Web
 ## Interventions autour du Numérique Responsable
 * [Digital Ethics Forum 2025](https://www.digitalethicsforum.com/) (sur le sujet de la souveraineté numérique européenne)
 * ARCEP : [Forum des parties prenantes](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/forum-parties-prenantes-rgesn-210525.html)  
-* Mission Locale Haute-Garonne
 * IMT Alès : sensibilisation au Numérique Responsable et à l'écoconception de service numérique
 * IMT Albi : module d'une vingtaine d'heures autour du Numérique Responsable (impact environnemental + écoconception + accessibilité + cybersécurité)
 * Telecom Paris : sensibilisation au Numérique Responsable, accompagnement de la DSI sur l'écoconception de services numériques
