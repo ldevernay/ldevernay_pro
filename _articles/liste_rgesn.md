@@ -111,7 +111,6 @@ Ici, la déclaration d'écoconception évoque l'utilisation du RGESN mais ne pr�
 * [Centrale Lyon - Fonds de dotation](https://mecenat.ec-lyon.fr/declaration-ecoconception)
 * [Centrale Lyon - ENISE](https://enise.ec-lyon.fr/declaration-ecoconception)
 * [MAIF](https://www.maif.fr/declaration-ecoconception)
-* [Groupe SNCF](https://www.groupe-sncf.com/fr/information/eco-conception)
 * [SNCF Connect & Tech](https://www.sncf-connect-tech.fr/notre-demarche-eco-conception/) : une entreprise du groupe SNCF dédiée au numérique. 
 * [Eau Coeur d'Essonne](https://www.eaucoeurdessonne.fr/declaration-decoconception/) : site informatif et de service public.
 * [Ville de Pleurtuit](https://www.pleurtuit.com/systeme/declaration-ecoconception/#)     
