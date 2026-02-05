@@ -32,6 +32,8 @@ Par ailleurs, j’ai été **lead author** du chapitre *Sustainability* du **Web
 
 
 ## Interventions autour du Numérique Responsable
+* Co-animation de l'[atelier "Ecoconception : rien à déclarer! Ou comment faire votre déclaration d'écoconception"](https://journee-ecoconception-numerique.fr/2026/ecoconception-rien-a-declarer) avec [Emilie Nguyen Ven Yen](https://emue-design.fr/)
+* Animation de l'[atelier "Les missions du référent écoconception"](https://www.helloasso.com/associations/les-designers-ethiques/evenements/communaute-eco-conception-atelier-referent-ecoconception) pour les [Designers Ethiques](https://designersethiques.org/fr).
 * [Digital Ethics Forum 2025](https://www.digitalethicsforum.com/) (sur le sujet de la souveraineté numérique européenne)
 * ARCEP : [Forum des parties prenantes](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/forum-parties-prenantes-rgesn-210525.html)  
 * IMT Alès : sensibilisation au Numérique Responsable et à l'écoconception de service numérique
