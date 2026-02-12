@@ -27,6 +27,7 @@ Nous en sommes encore au début de l'adoption du référentiel et ces déclarati
 **Si vous avez connaissance d'une déclaration qui manque à cette liste, n'hésitez pas à me la transmettre via [le formulaire en ligne](https://framaforms.org/recensement-des-declarations-basees-sur-le-rgesn-1762179605) ou en me contactant directement (par exemple [via LinkedIn](https://www.linkedin.com/in/laurent-devernay-satyagraha-2610b85/)).**
      
 #### RGESN 2024
+* [Compar:IA](https://comparia.beta.gouv.fr/ecoconception)
 * [SNCF Connect & Tech](https://www.sncf-connect-tech.fr/fr/notre-demarche-eco-conception/)
 * [Groupe Matmut](https://www.matmut.fr/groupe-matmut/declaration-rgesn.html)
 * [Saint-Cyr au Mont d'Or](https://www.stcyraumontdor.fr/declaration-decoconception/)
