@@ -27,6 +27,8 @@ Nous en sommes encore au début de l'adoption du référentiel et ces déclarati
 **Si vous avez connaissance d'une déclaration qui manque à cette liste, n'hésitez pas à me la transmettre via [le formulaire en ligne](https://framaforms.org/recensement-des-declarations-basees-sur-le-rgesn-1762179605) ou en me contactant directement (par exemple [via LinkedIn](https://www.linkedin.com/in/laurent-devernay-satyagraha-2610b85/)).**
      
 #### RGESN 2024
+* [Ville de Lissieu](https://www.lissieu.fr/declaration-decoconception/)
+* [Klip, solution de partage de fichiers par Spécinov](https://klip.green/ecoconception)
 * [Compar:IA](https://comparia.beta.gouv.fr/ecoconception)
 * [SNCF Connect & Tech](https://www.sncf-connect-tech.fr/fr/notre-demarche-eco-conception/)
 * [Groupe Matmut](https://www.matmut.fr/groupe-matmut/declaration-rgesn.html)
@@ -74,11 +76,11 @@ Nous en sommes encore au début de l'adoption du référentiel et ces déclarati
 * [Réussir avec un marketing responsable](https://reussir-avec-un-marketing-responsable.org/en-savoir-plus-sur-lecoconception-du-site/) : le site de l'ADEME dédié au marketing responsable
 * [AltImpact](https://altimpact.fr/ecoconception-du-site/) : le site de l'ADEME dédié au Numérique Responsable
 * [Les Enovateurs](https://les-enovateurs.com/eco-conception) : un très bon site d'actualités autour du Numérique Responsable.
-* [Partir ici - PDF](https://www.partir-ici.fr/wp-content/uploads/2024/07/audit-rgesn-du-site-partir-ici.pdf) : un guide pour mieux voyager en Auvergne-Rhône-Alpes.
+* [Partir ici](https://partir-ici.fr/ecoconception-web/) : un guide pour mieux voyager en Auvergne-Rhône-Alpes.
 * [ComNum - Rennes Ville et Métropole](https://comnum.rennes.fr/declaration-decoconception/) : un site dédié à une communication numérique plus responsable. 
 * [Agglomération La Rochelle - PDF](https://www.agglo-larochelle.fr/documents/10839/10306270/agglo_larochelle_rgesn_2024_declaration_ecoconception.pdf) 
 * [dialog.beta.gouv.fr - PDF](https://dialog.beta.gouv.fr/ecoconception) : site autour de la numérisation de la réglementation de la circulation routière. 
-* [Eau du Grand Lyon - PDF](https://www.eaudugrandlyon.com/wp-content/uploads/2025/01/EGL-Audit-RGESN.pdf) 
+* [Eau du Grand Lyon](https://www.eaudugrandlyon.com/declaration-ecoconception/) 
 * [Les Champs Libres](https://www.leschampslibres.fr/eco-conception#declaration) : site des Champs Libres, un établissement culturel rennais. En bonus, [un retour d'expérience de LunaWeb qui a réalisé l'audit RGESN](https://www.lunaweb.fr/actualites/blog/retour-d-experience-les-champs-libres-et-le-rgesn/).
    
 #### RGESN 2021
@@ -109,10 +111,13 @@ Ici, la déclaration d'écoconception évoque l'utilisation du RGESN mais ne pr�
 * [OUZOM](https://www.ouzom.fr/declaration/)
 * [SPOTE](https://spote.developpement-durable.gouv.fr/article/declaration-d-ecoconception)
 * [Boscop - entreprise coopérative, créatrice de solutions numériques](https://boscop.fr/site-web-ecoconcu/)
-* [Centrale Lyon - Fonds de dotation](https://mecenat.ec-lyon.fr/declaration-ecoconception)
-* [Centrale Lyon - ENISE](https://enise.ec-lyon.fr/declaration-ecoconception)
-* [MAIF](https://www.maif.fr/declaration-ecoconception)
-* [SNCF Connect & Tech](https://www.sncf-connect-tech.fr/notre-demarche-eco-conception/) : une entreprise du groupe SNCF dédiée au numérique. 
+  
+* Centrale Lyon
+  * [Centrale Lyon](https://www.ec-lyon.fr/declaration-ecoconception)
+  * [Centrale Lyon - Fonds de dotation](https://mecenat.ec-lyon.fr/declaration-ecoconception)
+  * [Centrale Lyon - ENISE](https://enise.ec-lyon.fr/declaration-ecoconception)
+* [MAIF](https://www.maif.fr/declaration-ecoconception)  
+
 * [Eau Coeur d'Essonne](https://www.eaucoeurdessonne.fr/declaration-decoconception/) : site informatif et de service public.
 * [Ville de Pleurtuit](https://www.pleurtuit.com/systeme/declaration-ecoconception/#)     
  
