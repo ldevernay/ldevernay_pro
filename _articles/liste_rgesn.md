@@ -111,6 +111,7 @@ Ici, la déclaration d'écoconception évoque l'utilisation du RGESN mais ne pr�
 * [OUZOM](https://www.ouzom.fr/declaration/)
 * [SPOTE](https://spote.developpement-durable.gouv.fr/article/declaration-d-ecoconception)
 * [Boscop - entreprise coopérative, créatrice de solutions numériques](https://boscop.fr/site-web-ecoconcu/)
+* [Grand Lyon](https://www.grandlyon.com/ecoconception)
   
 * Centrale Lyon
   * [Centrale Lyon](https://www.ec-lyon.fr/declaration-ecoconception)
