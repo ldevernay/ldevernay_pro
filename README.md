@@ -46,7 +46,7 @@ bundle install
 To start the Jekyll local development server.
 
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload
 ```
 
 To build the theme.

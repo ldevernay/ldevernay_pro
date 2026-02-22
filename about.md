@@ -1,5 +1,5 @@
 ---
-title: Parcours, interventions et contributions.
+title: Présentation de Laurent Devernay Satyagraha
 layout: page
 description: Description de mon parcours, mes interventions et mes contributions
 bodyClass: page-about

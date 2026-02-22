@@ -2,13 +2,13 @@ main:
   - name: "Accueil"
     url: "/"
     weight: 1
-  - name: "Services"
+  - name: "Accompagnement"
     url: "/services/"
     weight: 2
   - name: "Articles"
     url: "/articles/"
     weight: 3
-  - name: "Bio"
+  - name: "À propos"
     url: "/about/"
     weight: 4
   - name: "Contact"
@@ -22,3 +22,9 @@ footer:
   - name: "Contact"
     url: "/contact/"
     weight: 2
+  - name: "Mentions légales"
+    url: "/legal/"
+    weight: 3
+  - name: "Déclaration environnementale"
+    url: "/declaration-environnementale/"
+    weight: 4
