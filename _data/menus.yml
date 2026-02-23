@@ -5,7 +5,7 @@ main:
   - name: "Accompagnement"
     url: "/services/"
     weight: 2
-  - name: "Articles"
+  - name: "Ressources"
     url: "/articles/"
     weight: 3
   - name: "À propos"
