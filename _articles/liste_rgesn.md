@@ -1,6 +1,6 @@
 ---
 title:  "Déclarations d'écoconception et RGESN"
-date:   2024-09-02 12:00:00 +0200
+date:   2026-02-09 12:00:00 +0200
 excerpt: Adopter le RGESN pour structurer sa démarche d'écoconception
 categories: ecoconception rgesn numeriqueresponsable
 ---
