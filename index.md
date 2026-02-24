@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# L'écoconception au service de vos utilisateurs et de vos équipes
+# LauDevSat - L'écoconception au service de vos utilisateurs et de vos équipes
 
 Je vous accompagne de façon opérationnelle pour  
 - <p>Améliorer la robustesse de votre organisation </p> 
