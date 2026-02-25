@@ -18,7 +18,8 @@ Selon les contextes, le RGESN peut être complété par d’autres référentiel
 * [**RWEB**](https://rweb.greenit.fr/fr) – pour un focus approfondi sur l’écoconception web
 * [**WSG (W3C)**](https://w3c.github.io/sustainableweb-wsg/) – pour des services à portée internationale ou anglophone
 
-J’ai participé à la conception et à l’évolution de ces référentiels, et je les ai mis en œuvre dans de nombreux contextes d’audit. Cette double posture — contribution aux référentiels et audits de terrain — me permet de proposer une lecture experte, cohérente et exigeante du RGESN, ainsi qu’une articulation pertinente avec les autres cadres existants.
+J’ai participé à la conception et à l’évolution de ces référentiels, et je les ai mis en œuvre dans de nombreux contextes d’audit. Cette double posture — contribution aux référentiels et audits de terrain — me permet de proposer une lecture experte, cohérente et exigeante du RGESN, ainsi qu’une articulation pertinente avec les autres cadres existants.  
+  
 En complément, je propose également des audits d'accessibilité, notamment basés sur le **RGAA**. Ce sujet est complémentaire à l'écoconception et permet aux structures de faire face notamment aux obligations légales mais surtout aux besoins des utilisateurs. 
 
 ## Des audits orientés action
