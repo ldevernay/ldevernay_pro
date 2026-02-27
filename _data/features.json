@@ -53,5 +53,16 @@
       "width": 80,
       "height": 80
     }
+  },
+  {
+    "title": "Conception Responsable",
+    "description": "Certificat de Connaissances délivré par l'INR",
+    "url": "https://numerique-responsable.univ-lr.fr/ecocertifications/",
+    "image": {
+      "url": "images/features/logo_inr_cut.jpg",
+      "alt": "Logo de l'Institut du Numérique Responsable",
+      "width": 80,
+      "height": 80
+    }
   }
 ]
