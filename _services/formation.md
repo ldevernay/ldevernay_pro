@@ -24,7 +24,7 @@ La première étape consiste généralement en un **échange exploratoire**, afi
 ## Modules proposés 
 Selon vos demandes, d'autres modules peuvent vous être proposés et les modules existants adaptés à votre contexte.
 
-### Découvrir Numérique Responsable - 2h
+### Découvrir le Numérique Responsable - 2h
 Ce module s'adresse à tous, sans prérequis. Il s'agit d'une immersion dans le sujet afin de découvrir tout ce qu'inclut la notion de Numérique Responsable.
   * Economie de l'attention
   * Impacts environnementaux
