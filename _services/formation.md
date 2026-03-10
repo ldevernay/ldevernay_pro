@@ -40,7 +40,7 @@ Le point de départ idéal pour découvrir comment réduire les impacts environn
   * Démarche d'écoconception
   * Outils et référentiels  
 
-### Mettre en oeuvre de l'écoconception de service numérique - 2J
+### Mettre en oeuvre l'écoconception de service numérique - 2J
 Des ateliers et activités pour mettre en place une démarche d'écoconception. Des cas pratiques par défaut sont proposés mais il est préférable d'utiliser des exemples issus de votre contexte.
   * Réaliser un audit de conformité
   * Mesurer un service numérique
