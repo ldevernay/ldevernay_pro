@@ -34,6 +34,8 @@ Ce module s'adresse à tous, sans prérequis. Il s'agit d'une immersion dans le 
   * Ethique et biais
   * Souveraineté, robustesse et résilience  
 
+[Fiche formation à télécharger - PDF, 200ko](/downloads/Qualiopi-DécouvrirLeNumériqueResponsable.pdf)
+
 ### Découvrir l'écoconception de service numérique - 2h
 Le point de départ idéal pour découvrir comment réduire les impacts environnementaux des services numériques. 
   * Impacts d'un service numérique
