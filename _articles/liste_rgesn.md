@@ -62,7 +62,6 @@ Nous en sommes encore au début de l'adoption du référentiel et ces déclarati
 * [Communauté de communes Marches du Velay - Rochebaron](https://www.marchesduvelayrochebaron.fr/declaration-decoconception/)
 * [Simbios.fr](https://simbios.fr/declaration-ecoconception)
 * [Communauté de communes de Forez-Est](https://www.forez-est.fr/declaration-decoconception/)
-* [Ville de Malzéville](https://www.villedemalzeville.fr/declaration-decoconception/)
 * [CDG69](https://www.cdg69.fr/declaration-ecoconception) : Centre de gestion de la fonction publique territoriale du Rhône et le Métropole de Lyon
 * [CHU de Nantes](https://www.nouvelhopital-chu-nantes.fr/systeme/declaration-ecoconception/)
 * [B&B Home](https://bbhome-group.com/declaration-rgesn/)
@@ -119,7 +118,7 @@ Ici, la déclaration d'écoconception évoque l'utilisation du RGESN mais ne pr�
   * [Centrale Lyon - Fonds de dotation](https://mecenat.ec-lyon.fr/declaration-ecoconception)
   * [Centrale Lyon - ENISE](https://enise.ec-lyon.fr/declaration-ecoconception)
 * [MAIF](https://www.maif.fr/declaration-ecoconception)  
-
+* [Ville de Malzéville](https://www.villedemalzeville.fr/declaration-decoconception/)
 * [Eau Coeur d'Essonne](https://www.eaucoeurdessonne.fr/declaration-decoconception/) : site informatif et de service public.
 * [Ville de Pleurtuit](https://www.pleurtuit.com/systeme/declaration-ecoconception/#)     
  
