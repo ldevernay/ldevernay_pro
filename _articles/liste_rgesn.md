@@ -27,6 +27,8 @@ Nous en sommes encore au début de l'adoption du référentiel et ces déclarati
 **Si vous avez connaissance d'une déclaration qui manque à cette liste, n'hésitez pas à me la transmettre via [le formulaire en ligne](https://framaforms.org/recensement-des-declarations-basees-sur-le-rgesn-1762179605) ou en me contactant directement (par exemple [via LinkedIn](https://www.linkedin.com/in/laurent-devernay-satyagraha-2610b85/)).**
      
 #### RGESN 2024
+* [Institut polytechnique de Paris](https://www.ensta.fr/declaration-ecoconception)
+* [Communauté urbaine Arras](https://www.grandarras.fr/declaration-decoconception)
 * [Communauté de communes Lacq Orthez](https://www.cc-lacqorthez.fr/declaration-decoconception/)
 * [Mutualité française](https://www.mutualite.fr/politique-deco-conception/)
 * [Ville de Lissieu](https://www.lissieu.fr/declaration-decoconception/)
