@@ -10,7 +10,10 @@ categories: accessibilite numeriqueresponsable
 La prise de conscience pour l'accessibilité se fera principalement sur les axes suivants : 
 * Bien comprendre ce qui peut entraver l'utilisation du web par un utilisateur. [Voici quelques mises en situation](https://www.atalan.fr/agissons/fr/),
 * Prendre conscience des personnes concernées par ces handicaps. [Microsoft propose un guide très bien fait sur l'inclusive design [EN].](https://www.microsoft.com/design/inclusive/)    
-En très résumé, il s'agit de revoir notre perception de l'accessibilité et, par extension, du handicap. Le but de l'accessibilité est de rendre un outil utilisable par tous (ce qui est un peu la mission première du développeur/designer/concepteur/etc). On oublie trop souvent les handicaps temporaires ou situationnels. Voici quelques exemples pour resituer : 
+  
+
+En très résumé, il s'agit de revoir notre perception de l'accessibilité et, par extension, du handicap. Le but de l'accessibilité est de rendre un outil utilisable par tous (ce qui est un peu la mission première du développeur/designer/concepteur/etc). On oublie trop souvent les handicaps temporaires ou situationnels.  
+Voici quelques exemples pour resituer : 
 * Utiliser un smartphone avec un bras dans le plâtre ou dans un environnement trop lumineux
 * S'appuyer sur de la reconnaissance vocale lorsqu'on a un défaut d'élocution ou un fort accent
 * Naviguer sur un site web lorsqu'on a oublié sa souris ou qu'elle ne fonctionne plus
