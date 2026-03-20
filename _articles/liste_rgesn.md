@@ -68,7 +68,6 @@ Nous en sommes encore au début de l'adoption du référentiel et ces déclarati
 * [Communauté de communes de Forez-Est](https://www.forez-est.fr/declaration-decoconception/)
 * [CDG69](https://www.cdg69.fr/declaration-ecoconception) : Centre de gestion de la fonction publique territoriale du Rhône et le Métropole de Lyon
 * [CHU de Nantes](https://www.nouvelhopital-chu-nantes.fr/systeme/declaration-ecoconception/)
-* [B&B Home](https://bbhome-group.com/declaration-rgesn/)
 * [Fondation Club Med](https://amisfondationclubmed.com/declaration-rgesn/)
 * [Grand Paris Grand Est - PDF](https://www.grandparisgrandest.fr/app/uploads/2023/11/GPGE-Internet-Ecoconception-Grille-RGESN-2_1.0_20240923.pdf)
 * [Alliance pour la Santé Mentale](https://alliance-sante-mentale.org/rgesn/)
