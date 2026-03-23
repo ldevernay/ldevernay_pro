@@ -1,5 +1,5 @@
 ---
-title:  "Classement des compagnies d'assurance"
+title:  "Classement des sites des compagnies d'assurance"
 date:   2026-03-20 12:00:00 +0200
 excerpt: Analyse des sites d'assurance en fonction de critères liés à l'écoconception et à l'accessibilité
 categories: ecoconception rgesn numeriqueresponsable accessibilite
