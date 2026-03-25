@@ -24,7 +24,7 @@ Le référentiel est encore jeune et tout ceci est normal !
 Pour cela, le fonctionnement est très simple : 
 1. Une première visio d'1 heure au cours de laquelle **vous m'expliquez comment s'est déroulé l'audit**
 2. **Vous me partagez la grille, les éventuels documents de justification et la déclaration**
-3. Je passe en moyenne 1 journée dessus : 
+3. Je passe en moyenne 1 journée dessus pour : 
   * **Commenter et annoter les ressources partagées** (ou annoter dans un autre document si vous préférez)
   * Tout **synthétiser** dans un support
 4. Nous reprenons 1h pour que je vous présente **les résultats** et vous envoie le support
