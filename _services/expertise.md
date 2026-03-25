@@ -34,4 +34,4 @@ Chaque intervention donne lieu à des **livrables structurés et exploitables**,
 ## Première étape
 La première étape consiste généralement en un **échange exploratoire**, afin de comprendre votre contexte, vos enjeux et votre niveau de maturité.
 
-👉 [Nous pouvons prendre un moment pour en discuter](/contact).  
+👉 [Prenons un moment pour en discuter](/contact).  

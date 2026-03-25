@@ -54,6 +54,6 @@ Les livrables sont conçus pour **documenter la démarche**, faciliter la mise e
 ## Première étape
 La première étape consiste généralement en un **échange exploratoire**, afin de comprendre votre contexte, vos enjeux et votre niveau de maturité.
 
-👉 [Nous pouvons prendre un moment pour en discuter](/contact).  
+👉 [Prenons un moment pour en discuter](/contact).  
 
 Si vous ne trouvez pas ici précisément ce que vous cherchez, vous invite à consulter [l'expertise que je propose](/services/expertise/).

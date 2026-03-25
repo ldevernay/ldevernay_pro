@@ -19,7 +19,7 @@ Via la couveuse qui m'accompagne, je bénéficie de la certification Qualiopi.
 ## Première étape
 La première étape consiste généralement en un **échange exploratoire**, afin de comprendre votre contexte, vos enjeux et votre niveau de maturité.
 
-👉 [Nous pouvons prendre un moment pour en discuter](/contact).  
+👉 [Prenons un moment pour en discuter](/contact).  
 
 ## Modules proposés 
 Selon vos demandes, d'autres modules peuvent vous être proposés et les modules existants adaptés à votre contexte.
