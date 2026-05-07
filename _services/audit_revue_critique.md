@@ -19,7 +19,7 @@ Le référentiel est encore jeune et tout ceci est normal !
 **Auditeur RGESN depuis sa toute première version**, je vous accompagne dans sa prise en main avec comme lignes directrices : 
 * On cherche l'avancement, pas la conformité. **Progrès > Perfection**
 * L'objectif est de **vous rendre autonome** sur le sujet
-* L'audit n'est que le début du chemin, je vous aider à amorcer et **structurer la démarche d'amélioration continue**
+* L'audit n'est que le début du chemin, je vous aide à amorcer et **structurer la démarche d'amélioration continue**
    
 Pour cela, le fonctionnement est très simple : 
 1. Une première visio d'1 heure au cours de laquelle **vous m'expliquez comment s'est déroulé l'audit**
