@@ -85,9 +85,15 @@ Nous en sommes encore au début de l'adoption du référentiel et ces déclarati
 * [dialog.beta.gouv.fr - PDF](https://dialog.beta.gouv.fr/ecoconception) : site autour de la numérisation de la réglementation de la circulation routière. 
 * [Eau du Grand Lyon](https://www.eaudugrandlyon.com/declaration-ecoconception/) 
 * [Les Champs Libres](https://www.leschampslibres.fr/eco-conception#declaration) : site des Champs Libres, un établissement culturel rennais. En bonus, [un retour d'expérience de LunaWeb qui a réalisé l'audit RGESN](https://www.lunaweb.fr/actualites/blog/retour-d-experience-les-champs-libres-et-le-rgesn/).
+* [Centru naziunale di creazione musicale](https://repertorium.voce.corsica/declaration-rgesn/)
+* [Pizzorno Environnement](https://www.pizzorno.com/declaration-ecoconception/)
+* [EPI - Société d'Ingénierie](https://www.epi.fr/declaration-rgesn/)
+* [Serenaid - Application pour les aidants](https://www.serenaid.fr/ecoconception/)
+* [Verte - Agence Web écoresponsable](https://site-web-ecoresponsable.fr/declaration-ecoconception/)
+* [Ville de Châtellerault](https://www.chatellerault.fr/declaration-decoconception)
+
    
 #### RGESN 2021
-* [Agence Mobiloweb](https://mobiloweb.fr/declaration-decoconception/)
 * [MDPH 35](https://www.mdph35.fr/declaration-decoconception)
 * [Mes Points Permis](https://mespoints.permisdeconduire.gouv.fr/eco-conception)
 * [Agence Parisienne du Climat](https://www.apc-paris.com/ecoconception/)
@@ -110,7 +116,6 @@ Nous en sommes encore au début de l'adoption du référentiel et ces déclarati
 
 ### Déclarations d'écoconception s'appuyant sur le RGESN
 Ici, la déclaration d'écoconception évoque l'utilisation du RGESN mais ne précise pas forcément le détail des critères validés ou non.
-* [Centru naziunale di creazione musicale](https://repertorium.voce.corsica/declaration-rgesn/)
 * [OUZOM](https://www.ouzom.fr/declaration/)
 * [SPOTE](https://spote.developpement-durable.gouv.fr/article/declaration-d-ecoconception)
 * [Boscop - entreprise coopérative, créatrice de solutions numériques](https://boscop.fr/site-web-ecoconcu/)
@@ -124,4 +129,5 @@ Ici, la déclaration d'écoconception évoque l'utilisation du RGESN mais ne pr�
 * [Ville de Malzéville](https://www.villedemalzeville.fr/declaration-decoconception/)
 * [Eau Coeur d'Essonne](https://www.eaucoeurdessonne.fr/declaration-decoconception/) : site informatif et de service public.
 * [Ville de Pleurtuit](https://www.pleurtuit.com/systeme/declaration-ecoconception/#)     
+* [Médoc Atlantique Tourisme](https://www.medoc-atlantique.com/declaration-decoconception/)
  
