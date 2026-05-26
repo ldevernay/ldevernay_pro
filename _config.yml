@@ -13,11 +13,15 @@ logo:
 home: 
   limit_services: 6
   limit_articles: 3
+  limit_references: 6
 
 collections:
   services:
     output: true
     sort_by: weight
+  references:
+    output: true
+    sort_by: date
   articles:
     output: true
     sort_by: date
@@ -31,6 +35,11 @@ defaults:
       type: "services"
     values:
       layout: "service"
+  - scope:
+      path: ""
+      type: "references"
+    values:
+      layout: "reference"
   - scope:
       path: ""
       type: "articles"

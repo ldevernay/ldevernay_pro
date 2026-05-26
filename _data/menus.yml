@@ -5,15 +5,18 @@ main:
   - name: "Accompagnement"
     url: "/services/"
     weight: 2
+  - name: "Références"
+    url: "/references/"
+    weight: 3
   - name: "Ressources"
     url: "/articles/"
-    weight: 3
+    weight: 4
   - name: "À propos"
     url: "/about/"
-    weight: 4
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Accueil"
