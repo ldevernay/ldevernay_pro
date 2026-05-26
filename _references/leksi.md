@@ -1,7 +1,7 @@
 ---
 title: "Agence Leksi"
 excerpt: "L'agence digitale qui pèse ses mots"
-date: 2026-05-25T15:14:39+10:00
+date: 2026-05-25T15:14:36+10:00
 home_url: https://leksi.fr
 image_url: "images/references/leksi.webp"
 image_width: 80
