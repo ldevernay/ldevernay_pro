@@ -4,9 +4,6 @@ layout: contact
 description: Contact
 ---
 
-
-👉 [Me contacter par mail](mailto:laurent.devernay@etik.com)
-
 ## Dans quels cas me contacter ?
 Si vous souhaitez :
 * Réaliser un **audit d’écoconception** de vos services numériques, par exemple en vous appuyant sur le **RGESN** comme référentiel de référence,
