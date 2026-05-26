@@ -83,6 +83,34 @@ bodyClass: "page-home"
   </div>
 </div>
 
+<div class="strip">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-center">
+      <h2>Nous travaillons déjà ensemble</h2>
+      {% assign limit = site.home.limit_references | default: 6 %}
+      {% for reference in site.references limit: limit %}
+      <div class="col-12 col-md-4 mb-1">
+        <div class="reference">
+          {% if reference.image_url %}
+          <div class="reference-image"><img alt="" src="{{ reference.image_url | relative_url }}"
+              width="{{ reference.image_width }}" height="{{ reference.image_height }}" /></div>
+          {% endif %}
+          <h3 class="reference-title">
+            <a href="{{ reference.url | relative_url }}" hreflang="fr">{{ reference.title }}</a>
+          </h3>
+          <p>{{ reference.excerpt | markdownify | strip_html | truncate: 100 }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-auto">
+        <a class="button button-primary" href="{{ "references" | relative_url }}">Voir toutes mes références</a>
+      </div>
+    </div>
+  </div>
+</div>
+
 {% if site.data.features %}
 <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
@@ -107,3 +135,4 @@ bodyClass: "page-home"
   </div>
 </div>
 {% endif %}
+

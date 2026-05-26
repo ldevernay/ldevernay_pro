@@ -23,6 +23,10 @@ bodyClass: "page-references"
     <div class="col-12 col-md-8">
       <div class="reference reference-summary">
         <div class="reference-content">
+          {% if reference.image_url %}
+          <div class="reference-image"><img alt="" src="{{ reference.image_url | relative_url }}"
+              width="{{ reference.image_width }}" height="{{ reference.image_height }}" /></div>
+          {% endif %}
           <h2 class="reference-title">
             <a href="{{ reference.url | relative_url }}" hreflang="fr">{{ reference.title }}</a>
           </h2>
