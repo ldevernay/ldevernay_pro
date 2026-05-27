@@ -43,12 +43,14 @@ Suite à cela, à vous décider sur quoi je peux vous aider à :
 * **Reprendre la déclaration**
 * **Mettre en oeuvre les bonnes pratiques**
 
-## Exemple de livrable
+## Exemple de réalisation
 L'[agence LunaWeb](https://www.lunaweb.fr/) a réalisé une [auto-évaluation RGESN de son site web](https://www.lunaweb.fr/declaration-d-ecoconception-du-site/).  
 J'ai pu réaliser une revue critique de cet audit et leur présenter les résultats.   
 Ils ont accepté que je partage le livrable utilisé, merci à eux !   
   
 [Télécharger le support [PDF, 162 ko]](/downloads/Revue_critique_RGESN_LunaWeb.pdf)  
+  
+De plus, ils ont publié un retour d'expérience à ce propos : [https://www.lunaweb.fr/actualites/blog/pourquoi-nous-avons-fait-auditer-notre-propre-declaration-rgesn/](https://www.lunaweb.fr/actualites/blog/pourquoi-nous-avons-fait-auditer-notre-propre-declaration-rgesn/)
   
 ## Première étape
 La première étape consiste généralement en un **échange exploratoire**, afin de comprendre votre contexte, vos enjeux et votre niveau de maturité.
