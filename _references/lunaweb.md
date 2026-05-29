@@ -9,6 +9,10 @@ image_height: 80
 weight: 2
 ---
 L'agence LunaWeb met en avant l'accessibilité et l'écoconception. Elle est très impliquée dans diverses communautés, notamment les Designers Ethiques. 
+  
+> *"Plutôt que de pointer de simples erreurs, Laurent a annoté et commenté notre travail pour co-construire un véritable plan d'action."*
+>> ~ Damien, Lead Designer
+   
 
 J'avais déjà pu côtoyer LunaWeb dans le cadre de la refonte du [site des Champs Libres](https://www.leschampslibres.fr/), sur le sujet de l'écoconception et notamment de la mesure (avec [Greenspector](../greenspector)).   
    
