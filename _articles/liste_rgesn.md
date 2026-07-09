@@ -91,6 +91,8 @@ Nous en sommes encore au début de l'adoption du référentiel et ces déclarati
 * [Serenaid - Application pour les aidants](https://www.serenaid.fr/ecoconception/)
 * [Verte - Agence Web écoresponsable](https://site-web-ecoresponsable.fr/declaration-ecoconception/)
 * [Ville de Châtellerault](https://www.chatellerault.fr/declaration-decoconception)
+* [Agglomération de Valence Romans](https://www.valenceromansagglo.fr/ecoconception/)
+* [Ville de Bordeaux](https://www.bordeaux.fr/eco-conception)
 
    
 #### RGESN 2021
