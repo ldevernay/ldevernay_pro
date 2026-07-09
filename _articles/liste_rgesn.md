@@ -93,6 +93,7 @@ Nous en sommes encore au début de l'adoption du référentiel et ces déclarati
 * [Ville de Châtellerault](https://www.chatellerault.fr/declaration-decoconception)
 * [Agglomération de Valence Romans](https://www.valenceromansagglo.fr/ecoconception/)
 * [Ville de Bordeaux](https://www.bordeaux.fr/eco-conception)
+* [Ville de Nîmes](https://www.nimes.fr/declaration-decoconception/audit-rgesn-autoevaluation)
 
    
 #### RGESN 2021
@@ -132,4 +133,5 @@ Ici, la déclaration d'écoconception évoque l'utilisation du RGESN mais ne pr�
 * [Eau Coeur d'Essonne](https://www.eaucoeurdessonne.fr/declaration-decoconception/) : site informatif et de service public.
 * [Ville de Pleurtuit](https://www.pleurtuit.com/systeme/declaration-ecoconception/#)     
 * [Médoc Atlantique Tourisme](https://www.medoc-atlantique.com/declaration-decoconception/)
+* [Bob le développeur](https://www.bob-le-developpeur.com/ecoconception/declaration)
  
