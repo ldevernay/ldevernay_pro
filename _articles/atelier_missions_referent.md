@@ -15,7 +15,7 @@ Deux modalités possibles :
 * En mélangeant les référents écoconception de plusieurs structures.
 
 ## Durée
-1h30
+2h    
 Il faut noter ici que c'est ici une estimation "optimiste". Les échanges et discussions font que les choses prennent souvent plus de temps que prévu. Et tant mieux car il s'agit ici d'amorcer des discussions et réflexions autour du rôle de référent écoconception. Gardez tout de même du temps pour présenter le tableau de la partie 2.
 Souvent, je prévois plutôt 2h (aussi pour anticiper le temps nécessaire pour que tout le monde arrive ou se connecte).
 

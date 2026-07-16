@@ -24,7 +24,62 @@ La première étape consiste généralement en un **échange exploratoire**, afi
 ## Modules proposés 
 Selon vos demandes, d'autres modules peuvent vous être proposés et les modules existants adaptés à votre contexte.
 
-### Découvrir le Numérique Responsable - 2h
+### Ateliers
+#### Les missions du référent écoconception
+Durée : 2h.   
+12 participants max, en inter ou intra. En présentiel ou à distance.   
+  
+##### En bref
+En tant que référent écoconception, il peut être compliqué d'avoir une vue d'ensemble de ce qui est attendu.  
+Dans cet atelier, les (futurs) référents mettent à plat et comparent les tâches qu'ils doivent accomplir et témoignent pour faciliter leur quotidien.  
+  
+##### Bénéfices attendus
+* Savoir à quoi s’engage le référent écoconception (critère 1.3 du RGESN) et ce qui est attendu de lui.
+* Amorcer la réflexion vers un plan d'action permettant au référent de mener à bien ses missions.
+
+##### Livrables
+* Grille d'audit RGESN remplie pour le critère 1.3 : au-delà du nom et moyen de contact, il est pertinent de mentionner les missions principales du référent.
+* Capture d'écran (ou photo) du tableau blanc réalisé
+* Tableau de plan d’action référent écoconception
+* Support de l'atelier
+
+Plus d'infos dans [l'article dédié](../../articles/atelier_missions_referent/).
+
+#### Adopter la sobriété éditoriale
+Durée : 2h.   
+12 participants max, en inter ou intra. En présentiel ou à distance.  
+  
+##### En bref
+Souvent, la production des contenus est laissée de côté lors des démarches d'écoconception.  
+Dans cet atelier, nous verrons comment optimiser chaque contenu mais aussi comment les gérer au mieux dans le temps.
+  
+##### Bénéfices attendus
+* Produire des contenus optimisés
+* Savoir gérer ses contenus afin de réduire leurs impacts environnementaux
+
+##### Livrables
+* Support de l'atelier
+* [INTRA] Grille d'audit des contenus
+
+#### Reprise sobre des contenus
+Durée : 2h.   
+12 participants max, en inter ou intra. En présentiel ou à distance.  
+
+##### En bref
+Lors de la refonte de sites, la migration des contenus est souvent sous-estimée.  
+C'est pourtant, comme nous le verrons ici, l'occasion idéale pour améliorer les contenus existants et réduire leurs impacts environnementaux.  
+  
+##### Bénéfices attendus
+* Permettre aux contributeurs de produire des contenus optimisés
+* Découvrir comment gérer ses contenus afin de réduire leurs impacts environnementaux
+
+##### Livrables
+* Support de l'atelier
+* [INTRA] Grille d'audit des contenus
+
+### Sensibilisation
+
+#### Découvrir le Numérique Responsable - 2h
 Ce module s'adresse à tous, sans prérequis. Il s'agit d'une immersion dans le sujet afin de découvrir tout ce qu'inclut la notion de Numérique Responsable.
   * Economie de l'attention
   * Impacts environnementaux
@@ -36,7 +91,7 @@ Ce module s'adresse à tous, sans prérequis. Il s'agit d'une immersion dans le 
 
 [Fiche formation à télécharger - PDF, 189ko](/downloads/Qualiopi-DecouvrirLeNumeriqueResponsable.pdf)
 
-### Découvrir l'écoconception de service numérique - 2h
+#### Découvrir l'écoconception de service numérique - 2h
 Le point de départ idéal pour découvrir comment réduire les impacts environnementaux des services numériques. 
   * Impacts d'un service numérique
   * Démarche d'écoconception
@@ -44,7 +99,9 @@ Le point de départ idéal pour découvrir comment réduire les impacts environn
 
 [Fiche formation à télécharger - PDF, 188ko](/downloads/Qualiopi-DécouvrirLEcoconceptionDeServiceNumerique.pdf)
 
-### Mettre en oeuvre l'écoconception de service numérique - 2J
+### Formation
+
+#### Mettre en oeuvre l'écoconception de service numérique - 2J
 Des ateliers et activités pour mettre en place une démarche d'écoconception. Des cas pratiques par défaut sont proposés mais il est préférable d'utiliser des exemples issus de votre contexte.
   * Réaliser un audit de conformité
   * Mesurer un service numérique
@@ -52,7 +109,7 @@ Des ateliers et activités pour mettre en place une démarche d'écoconception. 
 
 [Fiche formation à télécharger - PDF, 203ko](/downloads/Qualiopi-FormationEcoconceptionServiceNumerique.pdf)
 
-### Utiliser le RGESN pour structurer sa démarche d'écoconception - 2J
+#### Utiliser le RGESN pour structurer sa démarche d'écoconception - 2J
 Le référentiel RGESN (Référentiel Général d'Ecoconception des Services Numériques) est un excellent outil pour monter en compétence sur le sujet de l'écoconception. Cependant, il n'est pas des plus faciles à prendre en main. Au cours de ce module, vous découvrirez progressivement le référentiel afin de l'appropier et de l'intégrer facile à vos projets. 
   * Contexte du Référentiel
   * Structure des critères
@@ -63,7 +120,7 @@ Le référentiel RGESN (Référentiel Général d'Ecoconception des Services Num
 
 [Fiche formation à télécharger - PDF, 189ko](/downloads/Qualiopi-FormationRGESN.pdf)
 
-### Déployer le rôle de référent écoconception - 2J
+#### Déployer le rôle de référent écoconception - 2J
 D'autant plus avec les déclarations RGESN, les référents écoconception se multiplient dans les structures. Toutefois, il apparaît vite que leur rôle est encore mal compris et que la masse de travail à fournir est colossale. Après un premier atelier visant à mieux définir les missions en question, leur mise en oeuvre est abordée via des leviers éprouvés, des ressources et des outils. La finalité est de produire un plan d'action complet permettant de mieux comprendre ce qui est attendu du référent, avec qui il doit mener à bien ses objectifs et de quelle façon les suivre dans le temps.
   * Définir les missions du référent écoconception
   * Définir des indicateurs de suivi qui parlent aussi bien aux équipes qu'au management
