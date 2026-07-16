@@ -43,6 +43,8 @@ Par ailleurs, j’ai été **lead author** du chapitre *Sustainability* du **Web
 * Université Paul Valéry (Montpellier, MIASHS): sensibilisation au numérique responsable et à l'écoconception de service numérique ainsi qu'ateliers.
 
 ## Bibliographie sélective
+### 2026
+* [Rapport annuel sur l'état d'internet par l'ARCEP - état des lieux sur le RGESN](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/rapport-annuel-tome3-160726.html), ARCEP - 16 juillet 2026
 ### 2025
 * [Déclarations RGESN : le choc des mots, le poids des mesures](https://greenspector.com/rgesn_et_mesures/), Greenspector - 2 octobre 2025
 * [Définir le budget environnemental d’un service numérique](https://greenspector.com/budget-environnemental/), Greenspector - 28 août 2025
