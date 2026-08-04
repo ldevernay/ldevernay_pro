@@ -20,10 +20,14 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: 3.4
-    - uses: limjh16/jekyll-action-ts@v2
-      with:
-        enable_cache: true
-        custom_opts: "-d ./build"
+   
+    - name: Setup Environment.
+      run: |
+        gem install jekyll bundler
+        bundle install
+        
+    - name: Build Site with Jekyll.
+      run: JEKYLL_ENV=production bundle exec jekyll build
 
     - name: Copy files to VPS
       env:
