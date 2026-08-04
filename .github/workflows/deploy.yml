@@ -16,12 +16,12 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v5
 
-    - name : Build website
+    - name : Install Ruby
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: 3.4
    
-    - name: Setup Environment.
+    - name: Setup Environment
       run: |
         gem install jekyll bundler
         bundle install
@@ -33,7 +33,6 @@ jobs:
       env:
         SSH_PRIVATE_KEY: ${{ secrets.VPS_SSH_KEY }}
       run: |
-        mkdir -p ~/.ssh
         echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan -H ${{ secrets.VPS_IPV4 }} >> ~/.ssh/known_hosts
