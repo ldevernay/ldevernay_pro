@@ -36,9 +36,9 @@ jobs:
         USER: ${{ secrets.VPS_USER }}
         IPV4: ${{ secrets.VPS_IPV4 }}
       run: |
-        mkdir -p ~/.ssh
-        chmod 700 ~/.ssh
-        echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
-        chmod 700 ~/.ssh/id_rsa
-        ssh-keyscan -H "$IPV4" >> ~/.ssh/known_hosts
+        # mkdir -p ~/.ssh
+        # chmod 700 ~/.ssh
+        echo "$SSH_PRIVATE_KEY" > /home/"$USER"/.ssh/id_rsa
+        chmod 700 /home/"$USER"/.ssh/id_rsa
+        ssh-keyscan -H "$IPV4" >> /home/"$USER"/.ssh/known_hosts
         # rsync -avz -e 'ssh -p 53180' --delete ./ "$USER"@$"$IPV4":/var/www/html/
