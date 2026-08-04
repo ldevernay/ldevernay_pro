@@ -35,7 +35,7 @@ jobs:
       run: |
         mkdir -p ~/.ssh
         chmod 600 ~/.ssh
-        echo "$SSH_PRIVATE_KEY" > /home/${{ secrets.VPS_USER }}/.ssh/id_rsa
-        chmod 600 /home/${{ secrets.VPS_USER }}/.ssh/id_rsa
+        echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
         ssh-keyscan -H ${{ secrets.VPS_IPV4 }} >> /home/${{ secrets.VPS_USER }}/.ssh/known_hosts
         rsync -avz --delete ./ ${{ secrets.VPS_USER }}@${{ secrets.VPS_IPV4 }}:/var/www/html/
