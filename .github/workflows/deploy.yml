@@ -16,19 +16,19 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v5
 
-    # - name : Install Ruby
-    #   uses: ruby/setup-ruby@v1
-    #   with:
-    #     ruby-version: 3.4
-    #     bundler-cache: true    # Runs bundle install and caches gems automatically
+    - name : Install Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.4
+        bundler-cache: true    # Runs bundle install and caches gems automatically
    
-    # - name: Setup Environment
-    #   run: |
-    #     gem install jekyll bundler
-    #     bundle install
+    - name: Setup Environment
+      run: |
+        gem install jekyll bundler
+        bundle install
         
-    # - name: Build Site with Jekyll
-    #   run: JEKYLL_ENV=production bundle exec jekyll build
+    - name: Build Site with Jekyll
+      run: JEKYLL_ENV=production bundle exec jekyll build
 
     - name: Copy files to VPS
       env:
