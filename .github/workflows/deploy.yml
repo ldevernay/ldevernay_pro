@@ -27,16 +27,18 @@ jobs:
         gem install jekyll bundler
         bundle install
         
-    - name: Build Site with Jekyll.
+    - name: Build Site with Jekyll
       run: JEKYLL_ENV=production bundle exec jekyll build
 
     - name: Copy files to VPS
       env:
         SSH_PRIVATE_KEY: ${{ secrets.VPS_SSH_KEY }}
+        USER: ${{ secrets.VPS_USER }}
+        IPV4: ${{ secrets.VPS_IPV4 }}
       run: |
         mkdir -p ~/.ssh
         chmod 700 ~/.ssh
         echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
         chmod 700 ~/.ssh/id_rsa
-        ssh-keyscan -H ${{ secrets.VPS_IPV4 }} >> ~/.ssh/known_hosts
-        rsync -avz -e 'ssh -p 53180' --delete ./ ${{ secrets.VPS_USER }}@${{ secrets.VPS_IPV4 }}:/var/www/html/
+        ssh-keyscan -H "$IPV4" >> ~/.ssh/known_hosts
+        rsync -avz -e 'ssh -p 53180' --delete ./ "$USER"@$"$IPV4":/var/www/html/
