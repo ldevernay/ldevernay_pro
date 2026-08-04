@@ -20,6 +20,7 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: 3.4
+        bundler-cache: true    # Runs bundle install and caches gems automatically
    
     - name: Setup Environment
       run: |
@@ -38,4 +39,4 @@ jobs:
         echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
         chmod 700 ~/.ssh/id_rsa
         ssh-keyscan -H ${{ secrets.VPS_IPV4 }} >> ~/.ssh/known_hosts
-        rsync -avz --delete ./ ${{ secrets.VPS_USER }}@${{ secrets.VPS_IPV4 }}:/var/www/html/
+        rsync -avz -e 'ssh -p 53180' --delete ./ ${{ secrets.VPS_USER }}@${{ secrets.VPS_IPV4 }}:/var/www/html/
