@@ -33,9 +33,9 @@ jobs:
     - name: Configurer la clé SSH et déployer via rsync
       env:
         SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-        VPS_USER: ${{ secrets.SSH_VPS_USER }}
-        VPS_HOST: ${{ secrets.SSH_VPS_IP }}
-        VPS_PORT: ${{ secrets.SSH_VPS_PORT }}
+        VPS_USER: ${{ secrets.VPS_USER }}
+        VPS_HOST: ${{ secrets.VPS_HOST }}
+        VPS_PORT: ${{ secrets.VPS_PORT }}
         VPS_PATH: /var/www/liste-rgesn/
       run: |
         # 1. Créer le dossier SSH et écrire la clé privée
