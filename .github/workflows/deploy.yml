@@ -16,7 +16,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
-      - name : Install Ruby
+    - name : Install Ruby
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: 3.4
