@@ -1,3 +1,6 @@
+# Local scripts
+deploy.sh 
+
 # NPM
 node_modules
 npm-debug.log
