@@ -27,9 +27,6 @@ jobs:
         gem install jekyll bundler
         bundle install
          
-    - name: Clean build with Jekyll
-      run: JEKYLL_ENV=production bundle exec jekyll clean
-      
     - name: Build Site with Jekyll
       run: JEKYLL_ENV=production bundle exec jekyll build
       
