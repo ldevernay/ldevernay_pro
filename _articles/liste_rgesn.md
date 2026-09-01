@@ -1,6 +1,6 @@
 ---
 title:  "Déclarations d'écoconception et RGESN"
-date:   2026-02-09 12:00:00 +0200
+date:   2026-08-31 12:00:00 +0200
 excerpt: Adopter le RGESN pour structurer sa démarche d'écoconception
 categories: ecoconception rgesn numeriqueresponsable
 ---
@@ -13,125 +13,19 @@ Diverses structures ont débuté leurs audits RGESN, en autonomie ou non. Il s'a
   
 [La première instance du forum des parties prenantes a eu lieu en mai 2025](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/forum-parties-prenantes-rgesn-210525.html). J'ai d'ailleurs pu y présenter un retour d'expérience sur le sujet, dont [vous pouvez retrouver les grandes lignes dans un article dédié](https://greenspector.com/feedback-rgesn/).  
 
-Des discussions ont lieu en parallèle, notamment sur le Mattermost des [Designers Ethiques](https://mattermost.designersethiques.org/) avec la création d'un Consortium RGESN que je vous encourage à rejoindre. L'objectif est de réfléchir ensemble à comment faire évoluer le référentiel et mieux accompagner la prise en main du référentiel. Ces travaux sont régulièrement présentés à l'ARCEP.  
-   
-En complément, je compte centraliser ici les déclarations rédigées en se basant sur le RGESN. L'objectif est, en attendant un éventuel cadre législatif contraignant notamment sur les éléments attendus, de permettre de voir ce qui est fait sur le sujet.   
-    
-## Liste des déclarations d'écoconception
-Attention! Les déclarations listées ici se basent sur le RGESN en distinguant deux versions : celle de 2021 (DINUM) et celle de 2024 (ARCEP).   
-Certaines ont été effectuées par une structure externe, d'autres sont des auto-déclarations. Il n'y a pas aujourd'hui de cadre définissant si l'audit doit être porté par le client (qui "achète" le site), par la structure qui le réalise ou par une autre structure. C'est par exemple un décret d'application (comme dans le domaine de l'accessibilité numérique) qui définirait ces éléments.       
+Des discussions ont lieu en parallèle, notamment sur le Mattermost des [Designers Ethiques](https://mattermost.designersethiques.org/) avec la création d'un Consortium RGESN que je vous encourage à rejoindre. L'objectif est de réfléchir ensemble à comment faire évoluer le référentiel et mieux accompagner la prise en main du référentiel. Ces travaux sont régulièrement présentés à l'ARCEP.   
+
+Il n'y a pas aujourd'hui de cadre définissant si l'audit doit être porté par le client (qui "achète" le site), par la structure qui le réalise ou par une autre structure. C'est par exemple un décret d'application (comme dans le domaine de l'accessibilité numérique) qui définirait ces éléments.       
 Actuellement, la plupart des déclarations ne fournissent pas l'ensemble des éléments exigés par le RGESN (dans la section "Moyen de test ou de contrôle" de chaque critère). En soi, il est très difficile aujourd'hui de réunir l'ensemble de ces éléments et parfois complexe de les partager publiquement. Un exemple très spécifique est le 8.1 : les déclarations présentent de plus en plus d'éléments sur les engagements environnementaux des hébergeurs mais la signature du Code de Conduite européen doit être vérifiée et mentionnée pour pouvoir valider le critère.     
      
 Nous en sommes encore au début de l'adoption du référentiel et ces déclarations soulignent la bonne volonté mise en oeuvre pour structurer les démarches d'écoconception et diffuser les bonnes pratiques avec la communauté.   
+Et gardez en tête que tout ceci n'est pas que la partie émergée de l'iceberg ! Certaines structures ne publient pas toutes leurs déclarations RGESN et certaines utilisent un référentiel dérivé du RGESN pour leurs propres usages.  
 
-**Si vous avez connaissance d'une déclaration qui manque à cette liste, n'hésitez pas à me la transmettre via [le formulaire en ligne](https://framaforms.org/recensement-des-declarations-basees-sur-le-rgesn-1762179605) ou en me contactant directement (par exemple [via LinkedIn](https://www.linkedin.com/in/laurent-devernay-satyagraha-2610b85/)).**
-     
-#### RGESN 2024
-* [École Nationale Supérieure de l'Électronique et de ses Applications](https://www.ensea.fr/demarche-deco-conception)
-* [Institut polytechnique de Paris](https://www.ensta.fr/declaration-ecoconception)
-* [Communauté urbaine Arras](https://www.grandarras.fr/declaration-decoconception)
-* [Communauté de communes Lacq Orthez](https://www.cc-lacqorthez.fr/declaration-decoconception/)
-* [Mutualité française](https://www.mutualite.fr/politique-deco-conception/)
-* [Ville de Lissieu](https://www.lissieu.fr/declaration-decoconception/)
-* [Klip, solution de partage de fichiers par Spécinov](https://klip.green/ecoconception)
-* [Compar:IA](https://comparia.beta.gouv.fr/ecoconception)
-* [SNCF Connect & Tech](https://www.sncf-connect-tech.fr/fr/notre-demarche-eco-conception/)
-* [Groupe Matmut](https://www.matmut.fr/groupe-matmut/declaration-rgesn.html)
-* [Saint-Cyr au Mont d'Or](https://www.stcyraumontdor.fr/declaration-decoconception/)
-* [Plouhinec](https://www.plouhinec.com/declaration-decoconception/)
-* [Orange Business : La Fabrique](https://lafabrique.orange-business.com/49-demarche-d-ecoconception.htm)
-* [Agence Bilbea](https://bilbea.fr/declaration-ecoconception)
-* [Salagou Coeur d'Hérault, Communauté de communes du Clermontais](https://www.cc-salagou.fr/declaration-decoconception/)
-* [Parc Naturel Régional du Verdon](https://www.parcduverdon.fr/declaration-decoconception/)
-* [Communauté Lannion-Trégor](https://www.lannion-tregor.com/declaration-decoconception/)
-* [Groupe CDC Habitat](https://groupe-cdc-habitat.com/declaration-decoconception-de-service-numerique/)
-* [Théâtre Brassens à Avrillé](https://brassens.ville-avrille.fr/systeme/declaration-ecoconception/)
-* [Communauté de communes des Coëvrons](https://www.coevrons.fr/declaration-deco-conception/)
-* [Paris La Défense](https://www.parisladefense.com/fr/declaration-ecoconception-2025)
-* [Musée des Plans-Reliefs](https://museedesplansreliefs.fr/declaration-decoconception)
-* [Grand Saint-Emilionnais](https://www.grand-saint-emilionnais.fr/systeme/declaration-decoconception/)
-* [Axione](https://www.axione.com/wp-content/uploads/2025/03/rgesn_2025_site_internet_axione-190ko.pdf)
-* [SEVEDE (Syndicat d'élimination et de valorisation énergétique des déchets de l'estuaire)](https://www.sevede.fr/systeme/declaration-decoconception/)
-* [Agence Whodunit](https://www.whodunit.fr/wp-content/uploads/2025/03/declaration-rgesn-whodunit-17-mars-2025-min-1.pdf)
-* [Ville de Marseillan](https://www.ville-marseillan.fr/systeme/declaration-ecoconception/)
-* [Agence Ikonnect](https://ikonnect.ikomobi.com/)
-* [Equinoxe](https://www.equinoxe-manche.fr/ecoconception/)
-* [Okoo](https://www.france.tv/assets-okoo/declaration_ecoresponsabilite/declaration_ecoresponsabilite.html)
-* [Musée des Arts de Nantes](https://museedartsdenantes.nantesmetropole.fr/declaration-d-ecoconception/)
-* [Communauté de communes Pays Fléchois](https://www.paysflechois.fr/declaration-decoconception/)
-* [Conseil départemental des Vosges](https://www.vosges.fr/declaration-decoconception/)
-* [Ville de Landerneau](https://www.landerneau.bzh/systeme/declaration-ecoconception/)
-* [Communauté de communes Cap Sizun - Pointe du Raz](https://www.cap-sizun.bzh/systeme/declaration-ecoconception/)
-* [SMICTOM Alsace Centrale](https://www.smictom-alsacecentrale.fr/systeme/declaration-ecoconception/)
-* [Communauté de communes Marches du Velay - Rochebaron](https://www.marchesduvelayrochebaron.fr/declaration-decoconception/)
-* [Simbios.fr](https://simbios.fr/declaration-ecoconception)
-* [Communauté de communes de Forez-Est](https://www.forez-est.fr/declaration-decoconception/)
-* [CDG69](https://www.cdg69.fr/declaration-ecoconception) : Centre de gestion de la fonction publique territoriale du Rhône et le Métropole de Lyon
-* [CHU de Nantes](https://www.nouvelhopital-chu-nantes.fr/systeme/declaration-ecoconception/)
-* [Fondation Club Med](https://amisfondationclubmed.com/declaration-rgesn/)
-* [Grand Paris Grand Est - PDF](https://www.grandparisgrandest.fr/app/uploads/2023/11/GPGE-Internet-Ecoconception-Grille-RGESN-2_1.0_20240923.pdf)
-* [Alliance pour la Santé Mentale](https://alliance-sante-mentale.org/rgesn/)
-* [digital.green](https://digital.green/declaration-rgesn/) : une agence d'écoconception numérique
-* [OFDT](https://www.ofdt.fr/ecoconception-2429) : Observatoire français des drogues et des tendances addictives
-* [Département Loire Atlantique](https://www.loire-atlantique.fr/44/declaration-d-ecoconception/declaration-d-ecoconception/c_1482025)
-* [Agglomération de Dinan](https://www.dinan-agglomeration.fr/declaration-decoconception/)
-* [Emue design](https://emue-design.fr/declaration-d-ecoconception) : le site d’une designeuse oeuvrant pour un web durable
-* [Réussir avec un marketing responsable](https://reussir-avec-un-marketing-responsable.org/en-savoir-plus-sur-lecoconception-du-site/) : le site de l'ADEME dédié au marketing responsable
-* [AltImpact](https://altimpact.fr/ecoconception-du-site/) : le site de l'ADEME dédié au Numérique Responsable
-* [Les Enovateurs](https://les-enovateurs.com/eco-conception) : un très bon site d'actualités autour du Numérique Responsable.
-* [Partir ici](https://partir-ici.fr/ecoconception-web/) : un guide pour mieux voyager en Auvergne-Rhône-Alpes.
-* [ComNum - Rennes Ville et Métropole](https://comnum.rennes.fr/declaration-decoconception/) : un site dédié à une communication numérique plus responsable. 
-* [Agglomération La Rochelle - PDF](https://www.agglo-larochelle.fr/documents/10839/10306270/agglo_larochelle_rgesn_2024_declaration_ecoconception.pdf) 
-* [dialog.beta.gouv.fr - PDF](https://dialog.beta.gouv.fr/ecoconception) : site autour de la numérisation de la réglementation de la circulation routière. 
-* [Eau du Grand Lyon](https://www.eaudugrandlyon.com/declaration-ecoconception/) 
-* [Les Champs Libres](https://www.leschampslibres.fr/eco-conception#declaration) : site des Champs Libres, un établissement culturel rennais. En bonus, [un retour d'expérience de LunaWeb qui a réalisé l'audit RGESN](https://www.lunaweb.fr/actualites/blog/retour-d-experience-les-champs-libres-et-le-rgesn/).
-* [Centru naziunale di creazione musicale](https://repertorium.voce.corsica/declaration-rgesn/)
-* [Pizzorno Environnement](https://www.pizzorno.com/declaration-ecoconception/)
-* [EPI - Société d'Ingénierie](https://www.epi.fr/declaration-rgesn/)
-* [Serenaid - Application pour les aidants](https://www.serenaid.fr/ecoconception/)
-* [Verte - Agence Web écoresponsable](https://site-web-ecoresponsable.fr/declaration-ecoconception/)
-* [Ville de Châtellerault](https://www.chatellerault.fr/declaration-decoconception)
-* [Agglomération de Valence Romans](https://www.valenceromansagglo.fr/ecoconception/)
-* [Ville de Bordeaux](https://www.bordeaux.fr/eco-conception)
-* [Ville de Nîmes](https://www.nimes.fr/declaration-decoconception/audit-rgesn-autoevaluation)
+Un outil a été mis en open source par Grégory Biondo au cours de l'été 2026 afin de faciliter les audits RGESN : [https://github.com/GregoryBiondo/rgesn-v2-audit](https://github.com/GregoryBiondo/rgesn-v2-audit).   
 
-   
-#### RGESN 2021
-* [MDPH 35](https://www.mdph35.fr/declaration-decoconception)
-* [Mes Points Permis](https://mespoints.permisdeconduire.gouv.fr/eco-conception)
-* [Agence Parisienne du Climat](https://www.apc-paris.com/ecoconception/)
-* [Les entreprises s'engagent](https://lesentreprises-sengagent.gouv.fr/eco-conception)
-* [Telecoop](https://telecoop.fr/ecoconception)
-* [Val d'Isère](https://www.valdisere.com/val-disere/demarche-eco-responsable/declaration-ecoconception/)
-* [Helios](https://www.helios.ars.sante.fr/eco-conception) : données des établissements sanitaires et médico-sociaux.
-* [Troyes La Champagne Tourisme](https://www.troyeslachampagne.com/organisez-votre-sejour/troyes-la-champagne-tourisme/nos-demarche-eco-responsables/declaration-decoconception/)
-* [Design Accessible](https://design-accessible.fr/ecoconception) : site proposant des ressources afin de rendre les sites web accessibles et utilisables par tous. 
-* [ADEME](https://www.ademe.fr/une-logique-d-ecoconception/) : le site de l'agence française de la transition écologique.
-* [SERD](https://serd.ademe.fr/ecoconception/) : le site de l'ADEME consacré à la semaine européenne de la réduction des déchas. 
-* [Mtaterre](https://mtaterre.fr/ecoconception/) : le site M ta Terre, créé par l'ADEME pour sensibiliser et accompagner les jeunes sur le changement climatique. 
-* [La fibre.info](https://lafibre.info/forum/ecoconception/) : un forum de référence sur le sujet de la fibre optique. 
-* [MAS SEEDS - PDF](https://masseeds.com/wp-content/uploads/2024/04/rgesn-audit-mas-seeds-avril-2024-min.pdf) : un site visant à proposer des graines pour les agriculteurs. 
-* [Auditoire - PDF](https://www.auditoire.com/wp-content/uploads/2023/05/sustainability-audit-result-for-auditoire-in-french-rgesn-may-2023.pdf) : le site d'un cabinet spécialisé dans la communication. 
-* [Ecole Nationale d'Ingénieurs de Brest](https://www.enib.fr/declaration-ecoconception/)
-* [Département Ille & Villaine](https://www.ille-et-vilaine.fr/declaration-ecoconception)
-* [Ministère de la transition écologique et de la cohésion des territoires](https://www.ecologie.gouv.fr/ecoconception) 
-* [Communication responsable - ADEME](https://communication-responsable.ademe.fr/en-savoir-plus-sur-lecoconception-du-site)
-
-### Déclarations d'écoconception s'appuyant sur le RGESN
-Ici, la déclaration d'écoconception évoque l'utilisation du RGESN mais ne précise pas forcément le détail des critères validés ou non.
-* [OUZOM](https://www.ouzom.fr/declaration/)
-* [SPOTE](https://spote.developpement-durable.gouv.fr/article/declaration-d-ecoconception)
-* [Boscop - entreprise coopérative, créatrice de solutions numériques](https://boscop.fr/site-web-ecoconcu/)
-* [Grand Lyon](https://www.grandlyon.com/ecoconception)
+L'ARCEP présente un état des lieux rapide du RGESN (rédigé par mes soins) dans le tome 3 de son rapport annuel sur l'état d'Internet en France : [https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/rapport-annuel-tome3-160726.html](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/rapport-annuel-tome3-160726.html)  
   
-* Centrale Lyon
-  * [Centrale Lyon](https://www.ec-lyon.fr/declaration-ecoconception)
-  * [Centrale Lyon - Fonds de dotation](https://mecenat.ec-lyon.fr/declaration-ecoconception)
-  * [Centrale Lyon - ENISE](https://enise.ec-lyon.fr/declaration-ecoconception)
-* [MAIF](https://www.maif.fr/declaration-ecoconception)  
-* [Ville de Malzéville](https://www.villedemalzeville.fr/declaration-decoconception/)
-* [Eau Coeur d'Essonne](https://www.eaucoeurdessonne.fr/declaration-decoconception/) : site informatif et de service public.
-* [Ville de Pleurtuit](https://www.pleurtuit.com/systeme/declaration-ecoconception/#)     
-* [Médoc Atlantique Tourisme](https://www.medoc-atlantique.com/declaration-decoconception/)
-* [Bob le développeur](https://www.bob-le-developpeur.com/ecoconception/declaration)
- 
+## Liste des déclarations d'écoconception
+Pendant quelques temps, j'ai accueilli sur cette page la liste des déclarations RGESN recueillies principalement "à la main" (via des recherches sur le web ou sur LinkedIn) mais aussi avec l'aide de quelques volontaires (qu'ils en soient profusément remerciés).  
+
+Cette liste est dorénavant présentée sur un site à part pour des raisons pratiques (tri, recherche, filtre, nouveaux attributs affichés) : [https://www.liste-rgesn.laudevsat.fr/](https://www.liste-rgesn.laudevsat.fr/)
