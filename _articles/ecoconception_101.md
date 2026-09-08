@@ -76,6 +76,7 @@ Les prochaines étapes au choix :
 * Automatiser l'optimisation des images pour le faire avec toutes, y compris celles que vous ajouterez par la suite
 * Suivre un raisonnement similaire avec vos polices
 * Minifier le code / Passer en HTTP2 / Vérifier la compression côté serveur / etc.   
+    
 Voire même questionner le choix de l'hébergeur et l'usage de l'IA.    
     
 La liste peut être longue mais MilleCheck peut vous aider à prioriser. De même avec le référentiel RWEB.  
