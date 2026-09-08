@@ -67,11 +67,9 @@ En scrollant vers le bas, vous pouvez ouvrir l'onglet dédié aux bonnes pratiqu
 Partant de là, vous pouvez déjà fouiller un peu pour découvrir les bonnes pratiques déjà mises en place et celles qui devraient l'être, ainsi que des éléments de contexte pour mieux comprendre.
 
 ## Vous avez un site web et vous voulez commencer à appliquer l'écoconception ? 
-Reprenez les étapes au-dessus avec MilleCheck.   
-Plus simple encore : 
 1. Mesurez votre site web avec EcoIndex
 2. Ouvrez votre navigateur et ouvrez les DevTools (F12). Allez sur l'onglet "Réseau". Rechargez votre site (ctrl+F5).  
-3. Certaines de vos images font plus de 150 ko ? Utilisez ou outil en ligne pour les optimiser : [https://quetsche.alsacreations.com/](https://quetsche.alsacreations.com/)
+3. Certaines de vos images font plus de 150 ko ? Utilisez un outil en ligne pour les optimiser : [https://quetsche.alsacreations.com/](https://quetsche.alsacreations.com/)
 4. Remesurez votre site web avec EcoIndex. Le poids de la page doit avoir diminué et le score s'être légèrement amélioré. 
 
 Les prochaines étapes au choix :
@@ -84,7 +82,7 @@ La liste peut être longue mais MilleCheck peut vous aider à prioriser. De mêm
 Et si vous voulez aller plus loin (et avoir une approche structurée), utilisez le RGESN : [https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)   
 
 Gardez en tête deux choses : 
-* Référentiels et outils de mesures sont complémentaires  
+* Référentiels et outils de mesures sont complémentaires. On commence ici par du gratuit et du connu et vous affinerez ensuite en fonction de vos moyens et de vos besoins.  
 * Vous visez la progression, pas la perfection (et c'est le coeur de l'amélioration continue)   
 
 **Disclaimer :** je peux également vous sensibiliser ou vous former sur le Numérique Responsable et sur l'écoconception voire vous accompagner.  
