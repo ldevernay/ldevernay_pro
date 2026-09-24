@@ -1,0 +1,29 @@
+{% assign ref = include.reference %}
+{% assign level = include.heading | default: 2 %}
+
+{% assign name = ref.title %}
+{% assign logo = ref.image_url %}
+{% assign summary = ref.excerpt %}
+{% assign external = ref.home_url %}
+
+{% if external %}
+{% assign name_href = external %}
+{% else %}
+{% assign name_href = ref.url | relative_url %}
+{% endif %}
+
+<a href="{{ ref.url | relative_url }}" {% if external %} rel="noopener" {% endif %}>
+  <article class="reference-card">
+    <h{{ level }} class="reference-card__title">
+      {%- if logo -%}
+      <img class="reference-card__logo" src="{{ logo | relative_url }}" alt="" width="64" height="64" loading="lazy"
+        decoding="async">
+      {%- endif -%}
+      <span>{{ name }}</span>
+    </h{{ level }}>
+
+    {%- if summary -%}
+    <p class="reference-card__summary">{{ summary }}</p>
+    {%- endif -%}
+  </article>
+</a>

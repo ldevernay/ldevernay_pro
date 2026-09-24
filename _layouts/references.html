@@ -14,17 +14,11 @@ bodyClass: "page-references"
 </div>
 <div class="container pt-1 pb-3 pt-md-3 pb-md-3">
   <div class="row">
-    {% for reference in site.references %}
-    <div class="col-12 col-md-8">
-      <div class="reference reference-summary">
-        <div class="reference-content">
-          <h2 class="reference-title">
-            <a href="{{ reference.url | relative_url }}" hreflang="fr">{{ reference.title }}</a>
-          </h2>
-          <p>{{ reference.excerpt | markdownify | strip_html | truncate: 100 }}</p>
-        </div>
-      </div>
-    </div>
-    {% endfor %}
+    {% assign references = site.references | sort: "title" %}
+    <ul class="reference-list" role="list">
+      {% for reference in references %}
+      <li>{% include reference-card.html reference=reference %}</li>
+      {% endfor %}
+    </ul>
   </div>
 </div>

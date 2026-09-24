@@ -45,7 +45,7 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">Voir tous les services</a>
+        <a class="button button-primary" href="{{ " services" | relative_url }}">Voir tous les services</a>
       </div>
     </div>
   </div>
@@ -77,31 +77,31 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "articles" | relative_url }}">Voir tous les articles</a>
+        <a class="button button-primary" href="{{ " articles" | relative_url }}">Voir tous les articles</a>
       </div>
     </div>
   </div>
 </div>
 
 <div class="strip">
-  <div class="container pt-6 pb-6 pb-md-10">
+  <!-- <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-center">
       <h2>Nous travaillons déjà ensemble</h2>
       {% assign limit = site.home.limit_references | default: 6 %}
-      {% for reference in site.references limit: limit %}
-      <div class="col-12 col-md-4 mb-1">
-        <div class="reference">
-          {% if reference.image_url %}
-          <div class="reference-image"><img alt="" src="{{ reference.image_url | relative_url }}"
-              width="{{ reference.image_width }}" height="{{ reference.image_height }}" /></div>
-          {% endif %}
-          <h3 class="reference-title">
-            <a href="{{ reference.url | relative_url }}" hreflang="fr">{{ reference.title }}</a>
-          </h3>
-          <p>{{ reference.excerpt | markdownify | strip_html | truncate: 100 }}</p>
-        </div>
-      </div>
-      {% endfor %}
+      <ul class="reference-list" role="list">
+        {%- for reference in items %}
+        <li>{% include reference-card.html reference=reference heading=level %}</li>
+        {%- endfor %}
+      </ul>
+    </div> -->
+  <div class="container pt-1 pb-3 pt-md-3 pb-md-3">
+    <div class="row">
+      {% assign references = site.references | sort: "title" %}
+      <ul class="reference-list" role="list">
+        {% for reference in references %}
+        <li>{% include reference-card.html reference=reference %}</li>
+        {% endfor %}
+      </ul>
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
@@ -124,9 +124,9 @@ bodyClass: "page-home"
               width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
           {% endif %}
           <h3 class="feature-title">{{ feature.title }}</h3>
-            <div class="feature-content">
-              <a href="{{ feature.url }}" hreflang="fr">{{ feature.description }}</a>
-            </div>
+          <div class="feature-content">
+            <a href="{{ feature.url }}" hreflang="fr">{{ feature.description }}</a>
+          </div>
         </div>
       </div>
       {% endfor %}
@@ -135,4 +135,3 @@ bodyClass: "page-home"
   </div>
 </div>
 {% endif %}
-

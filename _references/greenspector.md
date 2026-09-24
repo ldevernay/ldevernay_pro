@@ -4,8 +4,6 @@ excerpt: "Solution SAAS pour évaluer et piloter les impacts environnementaux de
 date: 2026-05-25T15:14:37+10:00
 home_url: https://greenspector.com/
 image_url: "images/references/greenspector.svg"
-image_width: 80
-image_height: 80
 weight: 2
 ---
 Depuis plus de 10 ans, Greenspector propose des outils permettant d'évaluer et de piloter les impacts environnementaux (et sociaux) des services numériques. 

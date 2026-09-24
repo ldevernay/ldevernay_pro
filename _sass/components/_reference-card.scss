@@ -1,0 +1,55 @@
+.reference-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+  padding: 0;
+  list-style: none;
+}
+
+.reference-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  height: 100%;
+  padding: 1.5rem;
+  border: 1px solid #ccc; // reprendre la bordure/ombre des cartes de l'accueil
+  border-radius: 0.5rem;
+}
+
+.reference-card__title {
+  margin: 0;
+  font-size: 1.25rem;
+
+  a {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    min-height: 2.75rem; // cible tactile confortable
+  }
+}
+
+.reference-card__logo {
+  flex: none;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+}
+
+.reference-card__summary {
+  margin: 0;
+  flex: 1; // aligne les liens en bas des cartes
+}
+
+.reference-card__more {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.reference-card a:focus-visible {
+  outline: 3px solid currentColor;
+  outline-offset: 2px;
+}
