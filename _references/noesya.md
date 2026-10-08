@@ -6,7 +6,7 @@ home_url: https://www.noesya.coop/
 image_url: "images/references/noesya.svg"
 image_width: 80
 image_height: 80
-weight: 2
+weight: 4
 ---
 La coopérative porte très haut ses valeurs, notamment autour de l'accessibilité et de l'écoconception, afin de repenser le numérique sous l'angle de ses impacts.   
 

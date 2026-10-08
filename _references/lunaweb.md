@@ -6,7 +6,7 @@ home_url: https://www.lunaweb.fr/
 image_url: "images/references/lunaweb.webp"
 image_width: 80
 image_height: 80
-weight: 2
+weight: 3
 ---
 L'agence LunaWeb met en avant l'accessibilité et l'écoconception. Elle est très impliquée dans diverses communautés, notamment les Designers Ethiques. 
   

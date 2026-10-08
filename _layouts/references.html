@@ -14,7 +14,7 @@ bodyClass: "page-references"
 </div>
 <div class="container pt-1 pb-3 pt-md-3 pb-md-3">
   <div class="row">
-    {% assign references = site.references | sort: "title" %}
+    {% assign references = site.references | sort: "weight" %}
     <ul class="reference-list" role="list">
       {% for reference in references %}
       <li>{% include reference-card.html reference=reference %}</li>

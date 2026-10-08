@@ -5,7 +5,7 @@ date: 2026-05-25T15:14:36+10:00
 home_url: https://leksi.fr
 image_url: "images/references/leksi.webp"
 image_width: 80
-weight: 2
+weight: 4
 ---
 L'agence conçoit et déploie des stratégies digitales pour l'intérêt général.
 
