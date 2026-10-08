@@ -42,7 +42,8 @@ Voici une activité en ligne pour mieux comprendre les impacts environnementaux 
 Aujourd'hui, les sites web sont les mieux documentés à ce sujet, grâce à la présence de référentiels et d'outils gratuits. Ceux-ci peuvent constituer un bon point de départ.   
 * Un guide pour les designers : [https://eco-conception.designersethiques.org/guide/fr/](https://eco-conception.designersethiques.org/guide/fr/)  
 * Un référentiel plutôt technique pour le web : [https://rweb.greenit.fr/](ttps://rweb.greenit.fr/)  
-* Un outil pour évaluer gratuitement et rapidement les sites web : [https://www.ecoindex.fr/](https://www.ecoindex.fr/)  
+* Un outil pour évaluer gratuitement et rapidement les sites web : [https://www.ecoindex.fr/](https://www.ecoindex.fr/)   
+* Un guide pour lancer une démarche d'écoconception : [https://designersethiques.org/fr/thematiques/ecoconception/comment-initier-une-demarche-d-ecoconception](https://designersethiques.org/fr/thematiques/ecoconception/comment-initier-une-demarche-d-ecoconception)  
 
 ## Pourquoi écoconcevoir des services numériques ? 
 Plusieurs raisons, à vous de voir celles qui vous parlent ou peuvent vous aider à convaincre ceux qui auraient besoin de l'être : 
