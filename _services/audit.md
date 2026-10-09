@@ -8,7 +8,7 @@ image_height: 80
 weight: 2
 ---
 
-J’interviens sur des audits d’écoconception de services numériques avec un positionnement clairement centré sur le [RGESN]((https://www.arcep.fr/mes-demarches-et-services/entreprises/fiches-pratiques/referentiel-general-ecoconception-services-numeriques.html)) (Référentiel Général d’Écoconception de Services Numériques), aujourd’hui le cadre de référence en France et un point d’appui structurant pour de nombreuses organisations.
+J’interviens sur des audits d’écoconception de services numériques avec un positionnement clairement centré sur le [RGESN](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) (Référentiel Général d’Écoconception de Services Numériques), aujourd’hui le cadre de référence en France et un point d’appui structurant pour de nombreuses organisations.
 
 ## Auditer vos services numériques
 Je mobilise **le RGESN comme référentiel principal**, à la fois pour sa portée réglementaire, sa reconnaissance institutionnelle et sa capacité à couvrir l’ensemble du cycle de vie d’un service numérique. Il s'agit de plus d'un excellent outil pour accompagner la montée en compétences des équipes.
